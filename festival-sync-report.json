@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-08-29T09:53:48.662Z",
+  "checkedAt": "2026-08-29T10:02:04.828Z",
   "fetchedCount": 191,
   "publishedCount": 18,
   "rejected": [
@@ -8,27 +8,5 @@
       "reason": "필수 필드 누락"
     }
   ],
-  "reviewQueue": [
-    {
-      "id": "38e0bdc9-2b59-4f07-bdcf-8e86ef253ef4",
-      "title": "서초뮤직앤아트페스티벌(SMAF)",
-      "findings": [
-        "별도 공식 홈페이지 없음"
-      ]
-    },
-    {
-      "id": "2154ceb6-0470-47c0-84c9-4ae9a615be2b",
-      "title": "처인성문화제",
-      "findings": [
-        "별도 공식 홈페이지 없음"
-      ]
-    },
-    {
-      "id": "5aa748cc-5523-4fca-bf80-3b331ba22212",
-      "title": "포천 한탄강 가든페스타",
-      "findings": [
-        "별도 공식 홈페이지 없음"
-      ]
-    }
-  ]
+  "reviewQueue": []
 }
