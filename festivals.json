@@ -3,9 +3,9 @@
     "schemaVersion": 1,
     "sourceName": "대한민국 구석구석 축제",
     "sourceHomepage": "https://korean.visitkorea.or.kr/kfes/list/wntyFstvlList.do",
-    "lastCheckedAt": "2026-08-31T21:02:19.759Z",
-    "windowStart": "2026-09-01",
-    "windowEnd": "2026-10-16",
+    "lastCheckedAt": "2026-09-01T21:02:56.764Z",
+    "windowStart": "2026-09-02",
+    "windowEnd": "2026-10-17",
     "originLabel": "서울시청 기준"
   },
   "festivals": [
@@ -36,7 +36,7 @@
       "officialUrl": "https://www.kh.or.kr/short/g6cX",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=77a088e0-72c5-463f-b9c8-898275a41af5",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-19",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=77a088e0-72c5-463f-b9c8-898275a41af5",
@@ -73,7 +73,7 @@
       "officialUrl": "https://ddp.or.kr/index.html?menuno=241&siteno=2&bbsno=761&boardno=16&bbstopno=761&act=view&subno=2",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=53a97d85-aab6-43f4-bff0-1b1ec4a9c42f",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-28",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=53a97d85-aab6-43f4-bff0-1b1ec4a9c42f",
@@ -110,7 +110,7 @@
       "officialUrl": "https://sblibfest2026.github.io/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=9c9286de-c21d-45bf-b706-9e436bce9e33",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-25",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=9c9286de-c21d-45bf-b706-9e436bce9e33",
@@ -148,7 +148,7 @@
       "officialUrl": "https://www.festa-ddooddoo.com/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=0b953976-095b-41ae-bb3a-ad54acaab94d",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-27",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=0b953976-095b-41ae-bb3a-ad54acaab94d",
@@ -156,43 +156,6 @@
       ],
       "officialImageUrl": null,
       "editorialVerifiedAt": null,
-      "featured": false
-    },
-    {
-      "id": "edf65db1-8c43-4cf8-b1f7-098fa7e4250f",
-      "title": "새활용 페스티벌",
-      "area": "서울특별시 성동구",
-      "distanceKm": 7,
-      "dateLabel": "9.4–9.6",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-06",
-      "price": "무료",
-      "priceDetail": "무료",
-      "themes": [
-        "family",
-        "nature",
-        "culture"
-      ],
-      "fit": "아이와 함께·가족 나들이",
-      "summary": "새활용페스티벌은 자원순환과 새활용 문화 확산을 목적으로 개최되는 환경문화축제이다. 새활용의 가치와 지속가능한 생활방식을 시민에게 알리고, 다양한 체험과 전시, 공연, 참여 프로그램을 통해 자원순환에 대한 공감대를 형성하는 행사이다. 축제는 새활용 마켓, 수리(리페어) 프로그램, 업사이클링 체험, 전시, 공연, 피크닉 공간 등 다양한 콘텐츠로 구성되어 연령과 계층에 관계없이 참여할 수 있는 복합 문화행사이다. 또한 새활용 기업과 기관, 창작자, 시민이 함께 참여하는 교류의 장을 마련하여 새활용 산업과 문화의 활성화를 도모하는 행사이다. 현장에서는 시민 참여형 이벤트와 체험 프로그램을 운영하여 자원순환 실천을 유도하며, 친환경 축제 운영 방식을 적용하여 지속가능한 축제 모델을 구현하는 것을 목표로 하는 행사이다.",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "서울특별시 성동구 자동차시장길 49 (용답동)",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#6C63FF",
-      "tint": "#EEEAFE",
-      "emoji": "🎪",
-      "officialUrl": "https://www.seoulup.or.kr/detail.do?NTT_ID=notice&BBS_ID=8697",
-      "sourceName": "대한민국 구석구석 축제",
-      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=edf65db1-8c43-4cf8-b1f7-098fa7e4250f",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
-      "sourceUpdatedAt": "2026-08-14",
-      "evidenceUrls": [
-        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=edf65db1-8c43-4cf8-b1f7-098fa7e4250f",
-        "https://www.seoulup.or.kr/detail.do?NTT_ID=notice&BBS_ID=8697",
-        "https://www.seoulup.or.kr/upload/2026_08_24_072842.jpg"
-      ],
-      "officialImageUrl": "https://www.seoulup.or.kr/upload/2026_08_24_072842.jpg",
-      "editorialVerifiedAt": "2026-08-30",
       "featured": false
     },
     {
@@ -222,7 +185,7 @@
       "officialUrl": "https://100beer.kr/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=540f369d-2ad7-41ad-a184-21b7b435498a",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-28",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=540f369d-2ad7-41ad-a184-21b7b435498a",
@@ -230,45 +193,6 @@
         "https://100beer.kr/media/contents-section.webp"
       ],
       "officialImageUrl": "https://100beer.kr/media/contents-section.webp",
-      "editorialVerifiedAt": "2026-08-30",
-      "featured": false
-    },
-    {
-      "id": "75716834-5db2-4dcd-86bd-356b84939f34",
-      "title": "강화 별밤 야행",
-      "area": "인천광역시 강화군",
-      "distanceKm": 48,
-      "dateLabel": "9.4–9.5",
-      "startDate": "2026-09-04",
-      "endDate": "2026-09-05",
-      "price": "무료",
-      "priceDetail": "무료",
-      "themes": [
-        "family",
-        "food",
-        "night",
-        "nature",
-        "culture"
-      ],
-      "fit": "아이와 함께·가족 나들이",
-      "summary": "2026년 강화별밤야행은 강화군이 주최·주관하는 야간 문화관광 행사이다. 행사는 2026년 9월 4일부터 9월 5일까지 2일간 매일 18시부터 22시까지 인천광역시 강화군 강화읍 관청리 용흥궁공원 일원에서 개최되는 행사이다. 메인행사장은 용흥궁공원이며, 성공회강화성당, 용흥궁, 고려궁지 등 강화 원도심의 주요 국가유산과 문화시설을 연계하여 운영하는 행사이다. 주요 대상은 국내외 관광객과 강화군민이며, 강화읍 일대 국가유산의 야간 개방과 함께 공연, 전시, 강연, 역사체험, 도보투어, 마켓, 체험 프로그램 등을 운영하는 것이 주요 내용이다.",
-      "visitTip": "야간 운영 시간과 마지막 입장 시간을 공식 공지에서 확인해 주세요.",
-      "venue": "인천광역시 강화군 강화읍 관청리 405",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#6C63FF",
-      "tint": "#EEEAFE",
-      "emoji": "🎪",
-      "officialUrl": "https://www.gangwhastar.com/",
-      "sourceName": "대한민국 구석구석 축제",
-      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=75716834-5db2-4dcd-86bd-356b84939f34",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
-      "sourceUpdatedAt": "2026-08-31",
-      "evidenceUrls": [
-        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=75716834-5db2-4dcd-86bd-356b84939f34",
-        "https://www.gangwhastar.com/",
-        "https://www.gangwhastar.com/wp-content/uploads/2026/07/bn1-4.jpg"
-      ],
-      "officialImageUrl": "https://www.gangwhastar.com/wp-content/uploads/2026/07/bn1-4.jpg",
       "editorialVerifiedAt": "2026-08-30",
       "featured": false
     },
@@ -299,7 +223,7 @@
       "officialUrl": "https://www.xn--hq1b18vblaoou1yfqitqlyye.com/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=36ec5771-fbc2-49c9-92df-81a127e5f29f",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-20",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=36ec5771-fbc2-49c9-92df-81a127e5f29f",
@@ -337,7 +261,7 @@
       "officialUrl": "https://www.kh.or.kr/short/M3K4",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2bf9d15c-63a8-4b51-80ef-7d56a39470cf",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-20",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2bf9d15c-63a8-4b51-80ef-7d56a39470cf",
@@ -373,7 +297,7 @@
       "officialUrl": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159193&menuNo=200008",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=adf4c92b-e2a1-4404-87b7-31086e6f230c",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-31",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=adf4c92b-e2a1-4404-87b7-31086e6f230c",
@@ -410,7 +334,7 @@
       "officialUrl": "https://www.gmcf.or.kr/Community/BoardNotice/Details?articleId=233630",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=27015102-94c3-4676-b5f6-ca2216e44515",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-26",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=27015102-94c3-4676-b5f6-ca2216e44515",
@@ -446,7 +370,7 @@
       "officialUrl": "https://seoulheritagefestival.kr/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=723ca643-e37e-4dba-832a-e8dfe5c5dd12",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-25",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=723ca643-e37e-4dba-832a-e8dfe5c5dd12",
@@ -483,7 +407,7 @@
       "officialUrl": "https://www.l4d.or.kr/intro/index.do",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5c5dc65c-e2fa-4a2e-9de5-8a8bf11ef5e5",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-13",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5c5dc65c-e2fa-4a2e-9de5-8a8bf11ef5e5",
@@ -522,10 +446,11 @@
       "officialUrl": "https://yjcc.yangju.go.kr/www/selectBbsNttView.do?bbsNo=229&key=3840&nttNo=207423&pageIndex=6&searchCnd=all&searchCtgry=",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=06276959-71a5-4995-a248-8a17283c704b",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
-      "sourceUpdatedAt": "2026-08-31",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
+      "sourceUpdatedAt": "2026-09-01",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=06276959-71a5-4995-a248-8a17283c704b",
+        "https://yangju2022.quv.kr/",
         "https://yjcc.yangju.go.kr/www/selectBbsNttView.do?bbsNo=229&key=3840&nttNo=207423&pageIndex=6&searchCnd=all&searchCtgry="
       ],
       "officialImageUrl": null,
@@ -558,7 +483,7 @@
       "officialUrl": "https://kculturepaju.com/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=97a15670-1357-49da-9f43-2fc37b95500e",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-28",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=97a15670-1357-49da-9f43-2fc37b95500e",
@@ -597,7 +522,7 @@
       "officialUrl": "https://ycc50.org/bbs/chouInsung",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2154ceb6-0470-47c0-84c9-4ae9a615be2b",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-21",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2154ceb6-0470-47c0-84c9-4ae9a615be2b",
@@ -607,6 +532,43 @@
       ],
       "officialImageUrl": "https://ycc50.org/bbs/img/sub/ch01.jpg",
       "editorialVerifiedAt": "2026-08-29",
+      "featured": false
+    },
+    {
+      "id": "8b7f0ad9-384b-4b55-ba4b-5a6804cae161",
+      "title": "Colorful Garden 자라섬 꽃 페스타",
+      "area": "경기도 가평군",
+      "distanceKm": 55,
+      "dateLabel": "9.12–10.5",
+      "startDate": "2026-09-12",
+      "endDate": "2026-10-05",
+      "price": "유료",
+      "priceDetail": "유료 (7천원, 가평군민 무료입장)",
+      "themes": [
+        "family",
+        "food",
+        "nature",
+        "culture"
+      ],
+      "fit": "아이와 함께·가족 나들이",
+      "summary": "2026년 9월 12일부터 10월 5일까지 가평 자라섬에서 꽃 페스타가 열린다. 행사장에서는 형형색색의 가을꽃을 감상할 수 있으며, 주말과 공휴일에는 버스킹과 지역 예술인 공연이 펼쳐진다. 아이들과 함께 즐길 수 있는 풍선아트 등 체험 프로그램, 지역 농특산물 판매 부스와 간식류 먹거리 부스도 운영된다. 입장료 7,000원 중 5,000원은 지역화폐로 환급되어 행사장 내 부스는 물론 관내 음식점과 카페 등에서도 사용할 수 있다. 또한 북한강의 아름다운 수변 경관을 감상할 수 있는 선박 운항도 함께 운영되며, 자라섬 입구에서 행사장 인근까지 전기차가 왕복 운행되어 더욱 편리하고 특별한 여행을 즐길 수 있다. 꽃 페스타 입장권 소지자에게는 주요 관광지와 업소 할인 혜택도 제공될 예정이다.",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "경기도 가평군 가평읍 자라섬로 60 자라섬",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#6C63FF",
+      "tint": "#EEEAFE",
+      "emoji": "🎪",
+      "officialUrl": "https://www.gptour.go.kr/festival/festival_view.jsp?menu=festival&submenu=FP0000006",
+      "sourceName": "대한민국 구석구석 축제",
+      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=8b7f0ad9-384b-4b55-ba4b-5a6804cae161",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
+      "sourceUpdatedAt": "2026-08-24",
+      "evidenceUrls": [
+        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=8b7f0ad9-384b-4b55-ba4b-5a6804cae161",
+        "https://www.gptour.go.kr/festival/festival_view.jsp?menu=festival&submenu=FP0000006"
+      ],
+      "officialImageUrl": null,
+      "editorialVerifiedAt": "2026-09-02",
       "featured": false
     },
     {
@@ -636,7 +598,7 @@
       "officialUrl": "https://www.pocheon-gardenfesta.kr/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5aa748cc-5523-4fca-bf80-3b331ba22212",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-08-31",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5aa748cc-5523-4fca-bf80-3b331ba22212",
@@ -673,7 +635,7 @@
       "officialUrl": "https://www.gcfest.or.kr/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=fd76dc4b-f246-4e1b-a7ef-a0a0619ad08b",
-      "lastCheckedAt": "2026-08-31T21:02:19.759Z",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
       "sourceUpdatedAt": "2026-07-14",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=fd76dc4b-f246-4e1b-a7ef-a0a0619ad08b",
@@ -682,6 +644,41 @@
       ],
       "officialImageUrl": "https://www.gcfest.or.kr/data/pub_pop/KakaoTalk_20260804_100624119_01.jpg",
       "editorialVerifiedAt": "2026-08-30",
+      "featured": false
+    },
+    {
+      "id": "a71f1560-7c67-4456-87e4-3c311dfb4ca0",
+      "title": "안양춤축제",
+      "area": "경기도 안양시",
+      "distanceKm": 20,
+      "dateLabel": "9.18–9.20",
+      "startDate": "2026-09-18",
+      "endDate": "2026-09-20",
+      "price": "무료",
+      "priceDetail": "무료",
+      "themes": [
+        "family",
+        "culture"
+      ],
+      "fit": "아이와 함께·가족 나들이",
+      "summary": "[안양춤축제 – ANYANG DANCE FESTIVAL]이 9월 18일부터 20일까지 안양 평촌중앙공원과 삼덕공원에서 3일간 펼쳐진다. 2000년 첫 문을 연 안양시민축제는 23년간 시민들과 함께 하며 매년 30만여 명의 관람객이 찾는 안양시 대표 축제를 넘어 경기도 대표 관광축제로 입지를 다졌다. 시민이 만들고, 참여하고, 관람하는 대표적인 시민 참여형 축제로 시민과 사람, 그리고 시민의 생활예술(Living Arts) 콘텐츠를 주제로 지역 예술인 공동체 형성과 시민 문화 커뮤니티 육성에 기여하고 있다. 걷고 달리는 행위도 넓은 범위에서 몸을 자유롭게 움직이는 ‘춤’이라는 인식을 줄 수 있도록 ‘걷고, 달리고, 춤추자!’라는 슬로건 아래, 안양 곳곳에 잠재되어 있는 움직임, Dance에 대한 열정을 발굴해 시민예술가들의 에너지와 역동성을 마음껏 펼치도록 독려한다. 또한 축제에 참여하는 안양 시민과 안양을 찾는 관람객들이 안양이라는 공간 안에서 ‘같이 추는’ 문화를 만들어 ‘춤’과 ‘문화 예술’을 매개로 화합할 수 있는 국내 유일의 지역 기반 K-Dance 문화 예술축제로 거듭나고자 한다.",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "경기도 안양시 동안구 관평로 149 중앙공원관리부속",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#6C63FF",
+      "tint": "#EEEAFE",
+      "emoji": "🎪",
+      "officialUrl": "https://www.aydf.kr/default/business/sub2.php",
+      "sourceName": "대한민국 구석구석 축제",
+      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=a71f1560-7c67-4456-87e4-3c311dfb4ca0",
+      "lastCheckedAt": "2026-09-01T21:02:56.764Z",
+      "sourceUpdatedAt": "2026-08-03",
+      "evidenceUrls": [
+        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=a71f1560-7c67-4456-87e4-3c311dfb4ca0",
+        "https://www.aydf.kr/default/business/sub2.php"
+      ],
+      "officialImageUrl": null,
+      "editorialVerifiedAt": "2026-09-02",
       "featured": false
     }
   ]
