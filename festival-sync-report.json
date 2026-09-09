@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-09-08T21:01:44.512Z",
-  "fetchedCount": 186,
+  "checkedAt": "2026-09-09T21:03:01.634Z",
+  "fetchedCount": 188,
   "publishedCount": 18,
   "rejected": [
     {
@@ -8,5 +8,13 @@
       "reason": "필수 필드 누락"
     }
   ],
-  "reviewQueue": []
+  "reviewQueue": [
+    {
+      "id": "19cc361a-c05f-4763-bdde-4158eba088e2",
+      "title": "고양 푸드앤비어페스티벌",
+      "findings": [
+        "별도 공식 홈페이지 없음"
+      ]
+    }
+  ]
 }
