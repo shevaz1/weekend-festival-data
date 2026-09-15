@@ -1,6 +1,6 @@
 {
-  "checkedAt": "2026-09-14T21:00:55.622Z",
-  "fetchedCount": 192,
+  "checkedAt": "2026-09-15T21:01:30.334Z",
+  "fetchedCount": 194,
   "publishedCount": 18,
   "rejected": [
     {
@@ -8,5 +8,13 @@
       "reason": "필수 필드 누락"
     }
   ],
-  "reviewQueue": []
+  "reviewQueue": [
+    {
+      "id": "2cab0f1a-df51-4c2d-ad17-959ae92340fb",
+      "title": "강북청소년축제 강추",
+      "findings": [
+        "별도 공식 홈페이지 없음"
+      ]
+    }
+  ]
 }
