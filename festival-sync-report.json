@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-09-19T21:02:20.057Z",
+  "checkedAt": "2026-09-20T21:04:00.485Z",
   "fetchedCount": 190,
   "publishedCount": 18,
   "rejected": [
@@ -8,5 +8,27 @@
       "reason": "필수 필드 누락"
     }
   ],
-  "reviewQueue": []
+  "reviewQueue": [
+    {
+      "id": "40c88083-2899-4548-9f2c-9db012559c62",
+      "title": "페스티벌 광명",
+      "findings": [
+        "별도 공식 홈페이지 없음"
+      ]
+    },
+    {
+      "id": "17e357f6-e2c0-4adf-bd65-452e225f8c91",
+      "title": "북내 금당천 삼색별미축제",
+      "findings": [
+        "별도 공식 홈페이지 없음"
+      ]
+    },
+    {
+      "id": "646ab327-6614-457f-b147-b77abf72e257",
+      "title": "시흥월곶포구축제",
+      "findings": [
+        "별도 공식 홈페이지 없음"
+      ]
+    }
+  ]
 }
