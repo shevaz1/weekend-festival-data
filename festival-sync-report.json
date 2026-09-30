@@ -1,15 +1,7 @@
 {
-  "checkedAt": "2026-09-29T21:02:44.998Z",
-  "fetchedCount": 180,
+  "checkedAt": "2026-09-30T21:02:19.324Z",
+  "fetchedCount": 183,
   "publishedCount": 18,
   "rejected": [],
-  "reviewQueue": [
-    {
-      "id": "40c88083-2899-4548-9f2c-9db012559c62",
-      "title": "페스티벌 광명",
-      "findings": [
-        "별도 공식 홈페이지 없음"
-      ]
-    }
-  ]
+  "reviewQueue": []
 }
