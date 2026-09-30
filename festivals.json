@@ -3,9 +3,9 @@
     "schemaVersion": 1,
     "sourceName": "대한민국 구석구석 축제",
     "sourceHomepage": "https://korean.visitkorea.or.kr/kfes/list/wntyFstvlList.do",
-    "lastCheckedAt": "2026-09-29T21:02:44.998Z",
-    "windowStart": "2026-09-30",
-    "windowEnd": "2026-11-14",
+    "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+    "windowStart": "2026-10-01",
+    "windowEnd": "2026-11-15",
     "originLabel": "서울시청 기준"
   },
   "festivals": [
@@ -36,7 +36,7 @@
       "officialUrl": "https://www.kh.or.kr/short/M3K4",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2bf9d15c-63a8-4b51-80ef-7d56a39470cf",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-08-20",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2bf9d15c-63a8-4b51-80ef-7d56a39470cf",
@@ -73,7 +73,7 @@
       "officialUrl": "https://www.kh.or.kr/short/g6cX",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=77a088e0-72c5-463f-b9c8-898275a41af5",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-08-19",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=77a088e0-72c5-463f-b9c8-898275a41af5",
@@ -110,7 +110,7 @@
       "officialUrl": "https://www.kh.or.kr/short/8aCe",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=325d1ad2-f4f3-4999-814b-35bbd5dceee1",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-09-07",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=325d1ad2-f4f3-4999-814b-35bbd5dceee1",
@@ -120,6 +120,46 @@
       ],
       "officialImageUrl": null,
       "editorialVerifiedAt": "2026-09-20",
+      "featured": false
+    },
+    {
+      "id": "5a190103-d166-4dd9-acde-dc7660743e72",
+      "title": "강남페스티벌",
+      "area": "서울특별시 강남구",
+      "distanceKm": 7,
+      "dateLabel": "10.3–10.5",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-05",
+      "price": "무료",
+      "priceDetail": "무료",
+      "themes": [
+        "family",
+        "food",
+        "night",
+        "nature",
+        "culture"
+      ],
+      "fit": "아이와 함께·가족 나들이",
+      "summary": "10월 3일부터 10월 5일까지 도심 전역을 무대로 펼쳐지는 최대 규모의 도시형 축제 ‘2026 강남페스티벌’​이 개최된다. 개막을 알리는 화려한 거리 퍼레이드를 시작으로, K-POP 콘서트, 온 가족이 함께 즐기는 패밀리 콘서트, K-패션과 퍼포먼스가 결합된 패션·뷰티페스타, 다양한 미식을 경험할 수 있는 비어·푸드페스타까지 강남 전역이 하나의 거대한 축제 공간이 되어 국내외 관광객에게 밤하늘을 수놓는 빛과 음악, 거리 곳곳에서 펼쳐지는 공연과 체험, 그리고 문화와 미식이 어우러지는 특별한 시간을 선사 할 것이다. 도시의 에너지와 한류 콘텐츠가 결합된 글로벌 K-컬처 페스티벌, 강남페스티벌은 강남의 매력을 세계에 알리는 대표 문화관광 행사이다.",
+      "visitTip": "야간 운영 시간과 마지막 입장 시간을 공식 공지에서 확인해 주세요.",
+      "venue": "서울특별시 강남구 도산대로 320 (논현동)",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#6C63FF",
+      "tint": "#EEEAFE",
+      "emoji": "🎪",
+      "officialUrl": "https://www.visitgangnam.net/festival",
+      "sourceName": "대한민국 구석구석 축제",
+      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5a190103-d166-4dd9-acde-dc7660743e72",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "sourceUpdatedAt": "2026-08-26",
+      "evidenceUrls": [
+        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5a190103-d166-4dd9-acde-dc7660743e72",
+        "https://www.visitgangnam.net/festival",
+        "https://www.gangnam.go.kr/board/B_000031/1075419/view.do?mid=ID01_031",
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=610"
+      ],
+      "officialImageUrl": null,
+      "editorialVerifiedAt": "2026-10-01",
       "featured": false
     },
     {
@@ -148,7 +188,7 @@
       "officialUrl": "https://ddmf.co.kr/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2d6f20e1-b8d2-4398-b7fd-04223e733eb6",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-09-04",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2d6f20e1-b8d2-4398-b7fd-04223e733eb6",
@@ -181,16 +221,17 @@
       "accent": "#6C63FF",
       "tint": "#EEEAFE",
       "emoji": "🎪",
-      "officialUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=40c88083-2899-4548-9f2c-9db012559c62",
+      "officialUrl": "https://festivalgm.or.kr/2026/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=40c88083-2899-4548-9f2c-9db012559c62",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-09-09",
       "evidenceUrls": [
-        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=40c88083-2899-4548-9f2c-9db012559c62"
+        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=40c88083-2899-4548-9f2c-9db012559c62",
+        "https://festivalgm.or.kr/2026/"
       ],
       "officialImageUrl": null,
-      "editorialVerifiedAt": null,
+      "editorialVerifiedAt": "2026-10-01",
       "featured": false
     },
     {
@@ -218,7 +259,7 @@
       "officialUrl": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159202&menuNo=200008",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=b339fb97-60c7-44a7-9d66-dc6d7a4d722e",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-08-18",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=b339fb97-60c7-44a7-9d66-dc6d7a4d722e",
@@ -257,7 +298,7 @@
       "officialUrl": "https://www.gccity.go.kr/portal/saeol/gosi/view.do?mId=0301040000&notAncmtMgtNo=32307",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=b5f4718e-8adc-4395-ac9e-52bd8ff6b12b",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-09-29",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=b5f4718e-8adc-4395-ac9e-52bd8ff6b12b",
@@ -295,7 +336,7 @@
       "officialUrl": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1674023925303&key=652&tourRsrcNo=1923",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=232b4956-0014-4e98-8cf4-a011ddc22f59",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-09-15",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=232b4956-0014-4e98-8cf4-a011ddc22f59",
@@ -331,7 +372,7 @@
       "officialUrl": "https://portal.icbp.go.kr/bpf/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=e7f655b5-b2d3-4923-90ba-6d7ce678b381",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-09-15",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=e7f655b5-b2d3-4923-90ba-6d7ce678b381",
@@ -340,6 +381,46 @@
       ],
       "officialImageUrl": null,
       "editorialVerifiedAt": "2026-09-21",
+      "featured": false
+    },
+    {
+      "id": "2d36bbb3-494b-4ba6-be8b-76c611860558",
+      "title": "소래포구축제",
+      "area": "인천광역시 남동구",
+      "distanceKm": 28,
+      "dateLabel": "10.2–10.4",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-04",
+      "price": "무료",
+      "priceDetail": "무료(일부 체험 유료)",
+      "themes": [
+        "family",
+        "food",
+        "night",
+        "nature",
+        "culture"
+      ],
+      "fit": "아이와 함께·가족 나들이",
+      "summary": "소래포구축제는 소래포구가 지닌 풍부한 생태자원과 역사·문화적 가치를 바탕으로 지역의 정체성을 담아내는 대표 축제이다. ​축제장은 메인무대존, 부스존, 체험존, 아트존, 경관존, 어린이존 등 다양한 테마 공간으로 구성되어 남녀노소 누구나 즐길 수 있는 다채로운 프로그램을 선보인다. 어린이 갯벌 놀이터, 어린이 소금 놀이터, 어린이 보트 낚시 놀이터 등 소래의 자연환경을 직접 체험할 수 있는 생태 프로그램을 비롯하여, 주민 참여 어등 만들기, 수산물 음식 경연대회, 소래포구 청소년 그림 그리기 대회, 소래 예술인 콘서트 등 지역 주민과 상인, 예술인, 유관기관이 함께 만들어가는 주민 참여 프로그램이 운영된다. 또한 화려한 불꽃쇼, 가족 모두가 즐길 수 있는 오징어게임, 문화예술 공연과 전시, 야간 경관 콘텐츠 등 풍성한 즐길 거리를 제공한다. ​소래포구의 과거와 현재, 그리고 미래를 잇는 소래포구축제는 생태자원과, 문화와 예술, 사람과 지역이 어우러지는 특별한 축제로서 방문객들에게 잊지 못할 추억과 감동을 선사한다.",
+      "visitTip": "야간 운영 시간과 마지막 입장 시간을 공식 공지에서 확인해 주세요.",
+      "venue": "인천광역시 남동구 장도로 86-17 (논현동)",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#6C63FF",
+      "tint": "#EEEAFE",
+      "emoji": "🎪",
+      "officialUrl": "https://biz.namdong.go.kr/soraefestival/",
+      "sourceName": "대한민국 구석구석 축제",
+      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2d36bbb3-494b-4ba6-be8b-76c611860558",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "sourceUpdatedAt": "2026-09-30",
+      "evidenceUrls": [
+        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2d36bbb3-494b-4ba6-be8b-76c611860558",
+        "https://blog.naver.com/soraefestival",
+        "https://biz.namdong.go.kr/soraefestival/",
+        "https://biz.namdong.go.kr/bbs/bbsMsgList.do?bcd=dong_notice"
+      ],
+      "officialImageUrl": null,
+      "editorialVerifiedAt": "2026-10-01",
       "featured": false
     },
     {
@@ -368,7 +449,7 @@
       "officialUrl": "https://www.semiwon.or.kr/bbs/board.php?bo_table=notice&wr_id=120",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=97d01871-05c4-42be-ab22-00365537c2c0",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-09-10",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=97d01871-05c4-42be-ab22-00365537c2c0",
@@ -405,7 +486,7 @@
       "officialUrl": "https://www.swcf.or.kr/hlfl/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=856730a3-5355-4937-a2ae-43309d07af31",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-09-23",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=856730a3-5355-4937-a2ae-43309d07af31",
@@ -445,7 +526,7 @@
       "officialUrl": "https://shfestival.com/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=95d65f28-6c8f-4226-9697-a5a4e9edc801",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-06-15",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=95d65f28-6c8f-4226-9697-a5a4e9edc801",
@@ -482,7 +563,7 @@
       "officialUrl": "https://www.pocheon.go.kr/newsvision/contents.do?key=31076",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=22b7e854-7ed2-41c6-819f-6a340e4249aa",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-09-29",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=22b7e854-7ed2-41c6-819f-6a340e4249aa",
@@ -492,45 +573,6 @@
       ],
       "officialImageUrl": null,
       "editorialVerifiedAt": "2026-09-30",
-      "featured": false
-    },
-    {
-      "id": "e4c411f4-be0f-442d-ae74-2a41ecfa8360",
-      "title": "대한민국 조아용 페스티벌",
-      "area": "경기도 용인시",
-      "distanceKm": 39,
-      "dateLabel": "10.3–10.4",
-      "startDate": "2026-10-03",
-      "endDate": "2026-10-04",
-      "price": "무료",
-      "priceDetail": "무료",
-      "themes": [
-        "family",
-        "food",
-        "nature",
-        "culture"
-      ],
-      "fit": "아이와 함께·가족 나들이",
-      "summary": "2026년 10월 3일(토)부터 4일(일)까지 용인미르스타디움에서 「2026 대한민국 조아용 페스티벌」이 개최된다. 제31회 용인시민의 날과 용인시 승격 30주년을 기념해 열리는 이번 축제에서는 조아용 퍼레이드, 조아용 코스프레 경연대회 등 조아용을 활용한 다채로운 프로그램을 선보인다. 특히 전국 각지의 인기 캐릭터들이 한자리에 모여 시민과 관람객을 만나는 특별한 기회가 마련된다. 이와 함께 사이버과학축제, 평생학습박람회, 청년페스티벌, 먹거리페스타, 식품산업박람회, 조아용 푸드페스타 등 다양한 연계행사도 함께 열릴 예정이다. 선선한 가을, 용인미르스타디움에서 펼쳐지는 캐릭터 축제와 풍성한 체험 프로그램, 다채로운 축하공연을 통해 온 가족이 함께 즐거운 추억을 만들 수 있다.",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "경기도 용인시 처인구 동백죽전대로 61 (삼가동)",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#6C63FF",
-      "tint": "#EEEAFE",
-      "emoji": "🎪",
-      "officialUrl": "https://www.yongin.go.kr/event/2026_festival/",
-      "sourceName": "대한민국 구석구석 축제",
-      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=e4c411f4-be0f-442d-ae74-2a41ecfa8360",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
-      "sourceUpdatedAt": "2026-09-23",
-      "evidenceUrls": [
-        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=e4c411f4-be0f-442d-ae74-2a41ecfa8360",
-        "https://www.yongin.go.kr/event/2026_festival/#n",
-        "https://www.yongin.go.kr/event/2026_festival/",
-        "https://www.yongin.go.kr/user/bbs/BD_selectBbs.do?q_bbsCode=1020&q_bbscttSn=20260918075012182"
-      ],
-      "officialImageUrl": null,
-      "editorialVerifiedAt": "2026-09-24",
       "featured": false
     },
     {
@@ -558,7 +600,7 @@
       "officialUrl": "https://www.yongin.go.kr/event/2026_festival/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=8be867bb-e94b-4e3f-913a-24387424b71f",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-09-11",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=8be867bb-e94b-4e3f-913a-24387424b71f",
@@ -567,44 +609,6 @@
       ],
       "officialImageUrl": null,
       "editorialVerifiedAt": "2026-09-21",
-      "featured": false
-    },
-    {
-      "id": "75ebfb38-9953-47aa-bbfe-188dc8a3767c",
-      "title": "정조효문화제",
-      "area": "경기도 화성시",
-      "distanceKm": 40,
-      "dateLabel": "10.3–10.4",
-      "startDate": "2026-10-03",
-      "endDate": "2026-10-04",
-      "price": "무료",
-      "priceDetail": "무료",
-      "themes": [
-        "family",
-        "food",
-        "night",
-        "culture"
-      ],
-      "fit": "아이와 함께·가족 나들이",
-      "summary": "정조효공원 일원에서 펼쳐지는 정조효문화제는 역사적 가치와 가족 친화적인 요소를 함께 담은 화성특례시의 대표 역사문화축제이다. 다양한 공연과 전통 체험 프로그램을 즐길 수 있으며, 특히 정조대왕이 아버지 사도세자의 묘를 조선 최고 길지로 이름난 화성시 융릉으로 이전하는 대서사시를 재현한 현륭원 천원은 정조대왕의 지극한 효심을 상징적으로 보여주는 대표 프로그램이다. 또한 10월 4일에는 1795 을묘원행을 재현하는 정조대왕 능행차가 동탄 센트럴파크에서 출발해 장대한 행렬을 펼치며 전통과 현대가 어우러진 다채로운 볼거리를 선사한다. 천하의 명당, 효의 도시 \"화성특례시\"에서 펼쳐지는 본 축제는 역사와 문화, 그리고 가족이 함께하는 특별한 시간을 제공할 것이다.",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "경기도 화성시 장조1로 34 정조효공원 일원",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#6C63FF",
-      "tint": "#EEEAFE",
-      "emoji": "🎪",
-      "officialUrl": "https://www.hs-jeongjo.com/kr/sub01_1.php",
-      "sourceName": "대한민국 구석구석 축제",
-      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=75ebfb38-9953-47aa-bbfe-188dc8a3767c",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
-      "sourceUpdatedAt": "2026-09-08",
-      "evidenceUrls": [
-        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=75ebfb38-9953-47aa-bbfe-188dc8a3767c",
-        "https://www.hs-jeongjo.com/kr/sub01_1.php",
-        "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pRo=5&pSeq=12712"
-      ],
-      "officialImageUrl": null,
-      "editorialVerifiedAt": "2026-09-24",
       "featured": false
     },
     {
@@ -634,7 +638,7 @@
       "officialUrl": "https://samrangseong.org/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5395818a-8646-4708-ba9b-643f24faa426",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-09-17",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5395818a-8646-4708-ba9b-643f24faa426",
@@ -673,7 +677,7 @@
       "officialUrl": "https://xn--js0bp6w82idpf13l.com/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=53671071-3a8d-4738-b90d-790eb1c7766e",
-      "lastCheckedAt": "2026-09-29T21:02:44.998Z",
+      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
       "sourceUpdatedAt": "2026-09-22",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=53671071-3a8d-4738-b90d-790eb1c7766e",
