@@ -3,9 +3,9 @@
     "schemaVersion": 1,
     "sourceName": "대한민국 구석구석 축제",
     "sourceHomepage": "https://korean.visitkorea.or.kr/kfes/list/wntyFstvlList.do",
-    "lastCheckedAt": "2026-09-30T21:02:19.324Z",
-    "windowStart": "2026-10-01",
-    "windowEnd": "2026-11-15",
+    "lastCheckedAt": "2026-10-01T21:02:36.182Z",
+    "windowStart": "2026-10-02",
+    "windowEnd": "2026-11-16",
     "originLabel": "서울시청 기준"
   },
   "festivals": [
@@ -36,7 +36,7 @@
       "officialUrl": "https://www.kh.or.kr/short/M3K4",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2bf9d15c-63a8-4b51-80ef-7d56a39470cf",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-08-20",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2bf9d15c-63a8-4b51-80ef-7d56a39470cf",
@@ -73,7 +73,7 @@
       "officialUrl": "https://www.kh.or.kr/short/g6cX",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=77a088e0-72c5-463f-b9c8-898275a41af5",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-08-19",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=77a088e0-72c5-463f-b9c8-898275a41af5",
@@ -110,7 +110,7 @@
       "officialUrl": "https://www.kh.or.kr/short/8aCe",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=325d1ad2-f4f3-4999-814b-35bbd5dceee1",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-09-07",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=325d1ad2-f4f3-4999-814b-35bbd5dceee1",
@@ -150,7 +150,7 @@
       "officialUrl": "https://www.visitgangnam.net/festival",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5a190103-d166-4dd9-acde-dc7660743e72",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-08-26",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5a190103-d166-4dd9-acde-dc7660743e72",
@@ -188,7 +188,7 @@
       "officialUrl": "https://ddmf.co.kr/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2d6f20e1-b8d2-4398-b7fd-04223e733eb6",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-09-04",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2d6f20e1-b8d2-4398-b7fd-04223e733eb6",
@@ -197,6 +197,44 @@
       ],
       "officialImageUrl": null,
       "editorialVerifiedAt": "2026-09-21",
+      "featured": false
+    },
+    {
+      "id": "8ccf08ba-3b3d-4df5-99da-cf9fcc6d403b",
+      "title": "양재아트살롱",
+      "area": "서울특별시 서초구",
+      "distanceKm": 11,
+      "dateLabel": "10.2–10.25",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-25",
+      "price": "무료",
+      "priceDetail": "무료 (프리마켓 상품 제외)",
+      "themes": [
+        "family",
+        "food",
+        "nature",
+        "culture"
+      ],
+      "fit": "아이와 함께·가족 나들이",
+      "summary": "양재천의 자연을 배경으로 계절의 변화를 오롯이 즐기며 문화예술을 즐길 수 있는 복합문화축제이다. 매주 새로운 테마로 구성된 공연과 마켓, 체험 프로그램이 펼쳐지며 방문객들에게 다채로운 문화 경험을 선사한다. 수변무대 ‘선셋 스테이지’에서는 다양한 장르의 버스킹과 특별 무대가 펼쳐지고, 양재천길 ‘양재 아틀리에’에서는 개성 있는 수공예 마켓과 아트 체험이 운영된다. 잔디광장 ‘힐링 라운지’에서는 특별 프로그램과 포토존 등 다양한 문화 콘텐츠가 어우러져 머무르는 즐거움을 제공하며, 영동1교 하부에 조성된 ‘브릿지 다이닝’에서는 푸드트럭과 함께 다채로운 먹거리를 즐길 수 있다. 양재아트살롱은 소상공인과 지역 주민, 방문객이 함께 어우러져 자연 속에서 예술과 휴식을 즐길 수 있는 특별한 경험을 선사한다.",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "서울특별시 서초구 양재동 261-23 양재천길 살롱스트림(수변무대~영동1교)",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#6C63FF",
+      "tint": "#EEEAFE",
+      "emoji": "🎪",
+      "officialUrl": "https://yangjaeartsalon.co.kr/",
+      "sourceName": "대한민국 구석구석 축제",
+      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=8ccf08ba-3b3d-4df5-99da-cf9fcc6d403b",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
+      "sourceUpdatedAt": "2026-10-01",
+      "evidenceUrls": [
+        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=8ccf08ba-3b3d-4df5-99da-cf9fcc6d403b",
+        "https://yangjaeartsalon.co.kr/",
+        "https://www.seocho.go.kr/site/seocho/ex/bbs/View.do?bcIdx=410390&cbIdx=57"
+      ],
+      "officialImageUrl": null,
+      "editorialVerifiedAt": "2026-10-02",
       "featured": false
     },
     {
@@ -224,7 +262,7 @@
       "officialUrl": "https://festivalgm.or.kr/2026/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=40c88083-2899-4548-9f2c-9db012559c62",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-09-09",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=40c88083-2899-4548-9f2c-9db012559c62",
@@ -232,43 +270,6 @@
       ],
       "officialImageUrl": null,
       "editorialVerifiedAt": "2026-10-01",
-      "featured": false
-    },
-    {
-      "id": "b339fb97-60c7-44a7-9d66-dc6d7a4d722e",
-      "title": "금천시흥행궁문화제",
-      "area": "서울특별시 금천구",
-      "distanceKm": 14,
-      "dateLabel": "10.4",
-      "startDate": "2026-10-04",
-      "endDate": "2026-10-04",
-      "price": "무료",
-      "priceDetail": "무료",
-      "themes": [
-        "family",
-        "culture"
-      ],
-      "fit": "아이와 함께·가족 나들이",
-      "summary": "'금천시흥행궁문화제'는 금천구의 역사적 정체성과 문화예술적 의미를 담은 금천구 대표 역사문화축제이다. [2026 금천시흥행궁문화제]는 왕의 행렬을 기다리는 주민들의 들뜬 마음을 표현한 1부 '행행잔치'를 시작으로, 2부에서는 정조대왕이 아버지 사도세자의 능에 참배하러 가는 행차의 모습을 서울시와 연계해 '정조대왕 능행차 행렬' 선보인다. 마지막 3부에서는 정조의 애민정신에 부합하는 '모두가 함께 즐기는 국악'으로 구성될 ‘금천시흥행궁문화제’만의 특화콘텐츠 '시흥행궁night'까지 다채로운 프로그램으로 주민들이 모두 함께 즐길 수 있는 축제이다.",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "서울특별시 금천구 은행나무로 44 (시흥동)",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#6C63FF",
-      "tint": "#EEEAFE",
-      "emoji": "🎪",
-      "officialUrl": "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159202&menuNo=200008",
-      "sourceName": "대한민국 구석구석 축제",
-      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=b339fb97-60c7-44a7-9d66-dc6d7a4d722e",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
-      "sourceUpdatedAt": "2026-08-18",
-      "evidenceUrls": [
-        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=b339fb97-60c7-44a7-9d66-dc6d7a4d722e",
-        "https://culture.seoul.go.kr/culture/culture/cultureEvent/view.do?cultcode=159202&menuNo=200008",
-        "https://gcfac.or.kr/mpage",
-        "https://www.mcst.go.kr/site/s_culture/festival/festivalView.jsp?pRo=78&pSeq=13504"
-      ],
-      "officialImageUrl": null,
-      "editorialVerifiedAt": "2026-09-28",
       "featured": false
     },
     {
@@ -298,7 +299,7 @@
       "officialUrl": "https://www.gccity.go.kr/portal/saeol/gosi/view.do?mId=0301040000&notAncmtMgtNo=32307",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=b5f4718e-8adc-4395-ac9e-52bd8ff6b12b",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-09-29",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=b5f4718e-8adc-4395-ac9e-52bd8ff6b12b",
@@ -336,7 +337,7 @@
       "officialUrl": "https://goyang.go.kr/visitgoyang/www/tourRsrcView.do?categ=1674023925303&key=652&tourRsrcNo=1923",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=232b4956-0014-4e98-8cf4-a011ddc22f59",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-09-15",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=232b4956-0014-4e98-8cf4-a011ddc22f59",
@@ -372,7 +373,7 @@
       "officialUrl": "https://portal.icbp.go.kr/bpf/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=e7f655b5-b2d3-4923-90ba-6d7ce678b381",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-09-15",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=e7f655b5-b2d3-4923-90ba-6d7ce678b381",
@@ -411,8 +412,8 @@
       "officialUrl": "https://biz.namdong.go.kr/soraefestival/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2d36bbb3-494b-4ba6-be8b-76c611860558",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
-      "sourceUpdatedAt": "2026-09-30",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
+      "sourceUpdatedAt": "2026-10-01",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=2d36bbb3-494b-4ba6-be8b-76c611860558",
         "https://blog.naver.com/soraefestival",
@@ -449,7 +450,7 @@
       "officialUrl": "https://www.semiwon.or.kr/bbs/board.php?bo_table=notice&wr_id=120",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=97d01871-05c4-42be-ab22-00365537c2c0",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-09-10",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=97d01871-05c4-42be-ab22-00365537c2c0",
@@ -486,7 +487,7 @@
       "officialUrl": "https://www.swcf.or.kr/hlfl/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=856730a3-5355-4937-a2ae-43309d07af31",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-09-23",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=856730a3-5355-4937-a2ae-43309d07af31",
@@ -526,7 +527,7 @@
       "officialUrl": "https://shfestival.com/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=95d65f28-6c8f-4226-9697-a5a4e9edc801",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-06-15",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=95d65f28-6c8f-4226-9697-a5a4e9edc801",
@@ -563,7 +564,7 @@
       "officialUrl": "https://www.pocheon.go.kr/newsvision/contents.do?key=31076",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=22b7e854-7ed2-41c6-819f-6a340e4249aa",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-09-29",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=22b7e854-7ed2-41c6-819f-6a340e4249aa",
@@ -600,7 +601,7 @@
       "officialUrl": "https://www.yongin.go.kr/event/2026_festival/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=8be867bb-e94b-4e3f-913a-24387424b71f",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-09-11",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=8be867bb-e94b-4e3f-913a-24387424b71f",
@@ -609,6 +610,43 @@
       ],
       "officialImageUrl": null,
       "editorialVerifiedAt": "2026-09-21",
+      "featured": false
+    },
+    {
+      "id": "fd2fb427-9aa1-40c7-8586-8df2e7060ff6",
+      "title": "용인청년페스티벌",
+      "area": "경기도 용인시",
+      "distanceKm": 39,
+      "dateLabel": "10.3–10.4",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-04",
+      "price": "무료",
+      "priceDetail": "무료",
+      "themes": [
+        "family",
+        "nature",
+        "culture"
+      ],
+      "fit": "아이와 함께·가족 나들이",
+      "summary": "2026 청년의 날을 기념하여 청년이 직접 기획하고 주도적으로 참여하여 만들어가는 행사이다. 청년LAB프로그램, 이달의 청년강사 클래스 등 청년 참여 및 체험 프로그램을 구성하여 청년세대 소통과 화합, 청년 문화 공유의 장이 펼쳐진다. 2026년 용인청년페스티벌 부제인 ''청년? 너도용? 나도용!''은 용인 청년 간의 공감대를 형성하고 문화를 공유하며 교류하는 기회를 만든다는 뜻을 갖고 있다. 와랄랄라 낮맥모임, 얼레벌레 보드게임 프로그램을 통해 지역 청년들에게 소통 기회를 제공하고, 우당탕탕 가짜찾기, 요리조리 축제탐방 챌린지를 통해 대한민국 조아용 페스티벌 등 연계행사를 즐길 수 있으며, 와리가리 스피드OX퀴즈로 청년정책부터 문화까지 알아보는 시간도 준비되어있다.",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "경기도 용인시 처인구 동백죽전대로 61 (삼가동)",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#6C63FF",
+      "tint": "#EEEAFE",
+      "emoji": "🎪",
+      "officialUrl": "https://youth.yongin.go.kr/web/main/bbs/info_notice/2691?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&bcId=info_notice&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+      "sourceName": "대한민국 구석구석 축제",
+      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=fd2fb427-9aa1-40c7-8586-8df2e7060ff6",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
+      "sourceUpdatedAt": "2026-09-14",
+      "evidenceUrls": [
+        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=fd2fb427-9aa1-40c7-8586-8df2e7060ff6",
+        "https://youth.yongin.go.kr/web/main/bbs/info_notice/2691?cp=1&sortOrder=BA_REGDATE&sortDirection=DESC&bcId=info_notice&baNotice=false&baCommSelec=false&baOpenDay=false&baUse=true",
+        "https://www.yongin.go.kr/event/2026_festival/"
+      ],
+      "officialImageUrl": null,
+      "editorialVerifiedAt": "2026-10-02",
       "featured": false
     },
     {
@@ -638,7 +676,7 @@
       "officialUrl": "https://samrangseong.org/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5395818a-8646-4708-ba9b-643f24faa426",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
+      "lastCheckedAt": "2026-10-01T21:02:36.182Z",
       "sourceUpdatedAt": "2026-09-17",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5395818a-8646-4708-ba9b-643f24faa426",
@@ -648,43 +686,6 @@
       ],
       "officialImageUrl": null,
       "editorialVerifiedAt": "2026-09-30",
-      "featured": false
-    },
-    {
-      "id": "53671071-3a8d-4738-b90d-790eb1c7766e",
-      "title": "호법 코스모스 꽃축제",
-      "area": "경기도 이천시",
-      "distanceKm": 54,
-      "dateLabel": "10.3–10.4",
-      "startDate": "2026-10-03",
-      "endDate": "2026-10-04",
-      "price": "무료",
-      "priceDetail": "무료",
-      "themes": [
-        "family",
-        "food",
-        "nature",
-        "culture"
-      ],
-      "fit": "아이와 함께·가족 나들이",
-      "summary": "제4회 호법 코스모스 꽃축제는 ‘호법을 거닐며 청춘을 꽃피우다’를 주제로 오는 10월 3일부터 4일까지 이틀간 호법레포츠공원과 복하천 코스모스길 일원에서 개최되는 가을 축제이다. 축제 첫날인 10월 3일 오전에는 코스모스길을 함께 걸으며 가을의 정취를 느낄 수 있는 ‘코스모스길 걷기행사’와 개막식이 진행되며, 오후에는 세대를 넘어 누구나 자신만의 청춘을 즐기고 공감할 수 있는 ‘청춘UP! 스테이지’가 펼쳐진다. 10월 4일 오후에는 다양한 세대가 함께 참여하며 소통하는 ‘세대공감 청춘퀴즈쇼’를 통해 축제의 흥겨움을 이어갈 예정이다. 이와 함께 축제 기간 동안 사진·영상 기록전, 코스모스 풍경을 바라보며 여유롭게 휴식할 수 있는 ‘꽃멍쉼터’, 남녀노소 누구나 즐길 수 있는 다채로운 체험 프로그램 등 상시 참여형 콘텐츠도 운영된다. 방문객들은 코스모스가 수놓은 복하천의 아름다운 가을 풍경 속에서 걷고, 즐기고, 체험하며 세대를 아우르는 ‘청춘’의 의미를 함께 나누고 특별한 가을의 추억을 만들 수 있다.",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "경기도 이천시 호법면 동산로395번길 139-38",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#6C63FF",
-      "tint": "#EEEAFE",
-      "emoji": "🎪",
-      "officialUrl": "https://xn--js0bp6w82idpf13l.com/",
-      "sourceName": "대한민국 구석구석 축제",
-      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=53671071-3a8d-4738-b90d-790eb1c7766e",
-      "lastCheckedAt": "2026-09-30T21:02:19.324Z",
-      "sourceUpdatedAt": "2026-09-22",
-      "evidenceUrls": [
-        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=53671071-3a8d-4738-b90d-790eb1c7766e",
-        "https://xn--js0bp6w82idpf13l.com/"
-      ],
-      "officialImageUrl": null,
-      "editorialVerifiedAt": "2026-09-23",
       "featured": false
     }
   ]
