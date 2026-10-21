@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-21T07:06:24.155Z",
+  "checkedAt": "2026-10-21T07:12:52.201Z",
   "fetchedCount": 545,
   "publishedCount": 334,
   "supplementalCount": 0,
@@ -511,8 +511,8 @@
       ]
     },
     {
-      "id": "culture-398428",
-      "title": "짓고 쓰다 - 건축과 기록",
+      "id": "culture-398485",
+      "title": "정읍시립박물관 석지 채용신 테마전Ⅱ 『동물, 상징을 담다』",
       "findings": [
         "별도 공식 홈페이지 없음"
       ]
@@ -616,8 +616,8 @@
       ]
     },
     {
-      "id": "culture-398485",
-      "title": "정읍시립박물관 석지 채용신 테마전Ⅱ 『동물, 상징을 담다』",
+      "id": "culture-398428",
+      "title": "짓고 쓰다 - 건축과 기록",
       "findings": [
         "별도 공식 홈페이지 없음"
       ]
@@ -940,6 +940,14 @@
       ]
     },
     {
+      "id": "1b0b88ea-a6e8-4f68-8438-8f7f9c3f201f",
+      "title": "황매산 억새축제",
+      "findings": [
+        "요금 정보 없음",
+        "별도 공식 홈페이지 없음"
+      ]
+    },
+    {
       "id": "culture-398725",
       "title": "[광주광역시 남구 이강하미술관] 제16회 광주비엔날레 캐나다 파빌리온 《스간나 고와 겅? 당신은 커다란 평화를 품고 있습니까?》",
       "findings": [
@@ -1018,13 +1026,6 @@
       ]
     },
     {
-      "id": "a155dbae-8d83-4b7c-aa14-9954484358ec",
-      "title": "밀양 매운맛 축제",
-      "findings": [
-        "별도 공식 홈페이지 없음"
-      ]
-    },
-    {
       "id": "culture-396664",
       "title": "제16회 광주비엔날레 대만 파빌리온 《인스턴스 던전: 회색지대》",
       "findings": [
@@ -1053,8 +1054,8 @@
       ]
     },
     {
-      "id": "db96012b-93e4-4c99-8795-54a2c64a0037",
-      "title": "김해분청도자기축제",
+      "id": "a155dbae-8d83-4b7c-aa14-9954484358ec",
+      "title": "밀양 매운맛 축제",
       "findings": [
         "별도 공식 홈페이지 없음"
       ]
@@ -1088,8 +1089,8 @@
       ]
     },
     {
-      "id": "36794a7a-f6ae-4604-8d85-695f8dc6b953",
-      "title": "어부장터X포트빌리지 통영",
+      "id": "db96012b-93e4-4c99-8795-54a2c64a0037",
+      "title": "김해분청도자기축제",
       "findings": [
         "별도 공식 홈페이지 없음"
       ]
@@ -1111,6 +1112,13 @@
     {
       "id": "culture-394513",
       "title": "해피 오남: 모두의 축제, 함께 즐기는 춤",
+      "findings": [
+        "별도 공식 홈페이지 없음"
+      ]
+    },
+    {
+      "id": "36794a7a-f6ae-4604-8d85-695f8dc6b953",
+      "title": "어부장터X포트빌리지 통영",
       "findings": [
         "별도 공식 홈페이지 없음"
       ]
@@ -1686,17 +1694,17 @@
       ]
     },
     {
-      "id": "funseoul-658",
-      "title": "제8회 북촌 계동길 축제",
-      "findings": [
-        "별도 공식 홈페이지 없음"
-      ]
-    },
-    {
       "id": "funseoul-625",
       "title": "2026 관악 청소년 축제 (제5회 청아즐:우리들의 응원시작!)",
       "findings": [
         "요금 정보 없음",
+        "별도 공식 홈페이지 없음"
+      ]
+    },
+    {
+      "id": "funseoul-658",
+      "title": "제8회 북촌 계동길 축제",
+      "findings": [
         "별도 공식 홈페이지 없음"
       ]
     },
@@ -2076,51 +2084,30 @@
     ]
   },
   "recoverySources": {
-    "accepted": 3,
+    "accepted": 4,
     "failures": []
   },
   "continuity": {
-    "baselineCount": 295,
-    "retainedUnverified": [
-      {
-        "id": "1b0b88ea-a6e8-4f68-8438-8f7f9c3f201f",
-        "title": "황매산 억새축제",
-        "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=1b0b88ea-a6e8-4f68-8438-8f7f9c3f201f",
-        "lastCheckedAt": "2026-10-20T02:35:25.181Z",
-        "reason": "현재 수집 목록에서 미발견. 기존 확인 시각으로 한시 보존"
-      }
-    ],
+    "baselineCount": 334,
+    "retainedUnverified": [],
     "idPreserved": [
       {
         "id": "bd540869-a192-4042-a702-cfb02c3264b4",
         "sourceId": "funseoul-581",
-        "title": "한성백제문화제"
+        "title": "제26회 한성백제문화제"
       },
       {
         "id": "funseoul-670",
         "sourceId": "0797f461-f162-46e9-9e64-94007b66451c",
-        "title": "제9회 도심 속 바다축제"
+        "title": "도심 속 바다축제"
       }
     ],
-    "expired": [
-      {
-        "id": "culture-402296",
-        "title": "[아트플러그 연수] 김효원 개인전《뼈 구름》"
-      },
-      {
-        "id": "culture-402005",
-        "title": "[청주 갤러리 원] B관 제17회 예인회 정기전"
-      },
-      {
-        "id": "culture-401975",
-        "title": "[청주 갤러리 원] A관 정경숙 개인전《마음에 피어나는 풍경》"
-      }
-    ],
+    "expired": [],
     "blockers": []
   },
   "legacyPublishedCount": 100,
   "dataHashes": {
-    "expanded": "d8201d510736f1038cd97b3379c8280261a974afef321c7ec00a2be7bc48eadc",
-    "legacy": "2208e5197df824fee75534f1122c0607b429ce70da3ea17c5c554220c406412f"
+    "expanded": "85140c372c23107656915446d561cdd7fe46bbc3156b79fa075459fb149ad068",
+    "legacy": "3e749591aba0490a00d6e017f9d082294e4fde511eb5574946c22ee013cee3fc"
   }
 }
