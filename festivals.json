@@ -4,9 +4,9 @@
     "regionScope": "nationwide",
     "sourceName": "관광공사·지자체·문화포털",
     "sourceHomepage": "https://korean.visitkorea.or.kr/kfes/list/wntyFstvlList.do",
-    "lastCheckedAt": "2026-11-11T21:01:25.003Z",
-    "windowStart": "2026-11-12",
-    "windowEnd": "2026-12-27",
+    "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+    "windowStart": "2026-11-13",
+    "windowEnd": "2026-12-28",
     "originLabel": "서울시청 기준"
   },
   "festivals": [
@@ -41,7 +41,7 @@
       "officialUrl": "https://i815.or.kr/2018/news/news.do?mode=V&no=997450&key_bbs_cd=news",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=ae25ca2d-4aab-4b5d-9ecb-bedebdf2b037",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": "2026-10-21",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=ae25ca2d-4aab-4b5d-9ecb-bedebdf2b037",
@@ -82,7 +82,7 @@
       "officialUrl": "https://xn--2i0bs4klockyciufozlkwe0my1nh7ub.kr/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=a27063ab-b3cc-4b61-91a4-5ba82187220c",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": "2026-10-26",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=a27063ab-b3cc-4b61-91a4-5ba82187220c",
@@ -122,7 +122,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=396",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=396",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=396"
@@ -132,125 +132,12 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=396",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-15",
           "eventStartDate": "2026-04-20",
           "eventEndDate": "2026-11-15",
           "kind": "hours",
           "text": "오전 10:00~12:00, 오후 14:00~16:00 (1일 2회)"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "standard-8fb7294c9ba0b44fa629",
-      "title": "진안고원 김치보쌈축제",
-      "area": "전북특별자치도 진안군",
-      "location": {
-        "latitude": 35.79531631244133,
-        "longitude": 127.43393002774478
-      },
-      "distanceKm": 201,
-      "dateLabel": "11.14–11.15",
-      "startDate": "2026-11-14",
-      "endDate": "2026-11-15",
-      "price": "무료",
-      "priceDetail": "무료 (일부 체험 프로그램 유료 - 우리집 김장담그기 체험)",
-      "themes": [
-        "family",
-        "food",
-        "nature",
-        "culture"
-      ],
-      "fit": "아이와 함께·가족 나들이",
-      "summary": "진안고원 김치보쌈축제는 전북특별자치도 진안군에서 개최되는 지역축제로, 우리나라 고유의 전통문화인 김장문화를 축제와 접목하여 가족과 이웃이 함께하는 공동체 문화를 확산하기 위해 마련된 축제이다. 핵가족화와 1인 가구 증가 등으로 점차 변화하는 식생활 환경 속에서 김장문화의 전통적 가치를 되새기고, 김치를 함께 담그고 나누는 과정을 통해 이웃 간 정을 나누는 데 목적이 있다. 진안고원의 청정 자연환경에서 생산된 지역 농산물을 활용한 김장 체험과 김치 및 보쌈 먹거리 프로그램 등 다양한 체험·참여 행사가 운영되며, 지역 농특산물의 우수성을 알리고 지역 농산물 소비를 촉진하는 역할도 하고 있다. 전통 김장문화의 계승과 지역 농산물의 가치를 함께 경험할 수 있는 축제이다.",
-      "program": "1. 개막행사 2. 무대 이벤트 3. 신나는 예술버스 4. 김장골든벨 5. SHOW ME THE 김장 6. 가을음악콘서트 7. 홍삼칵테일 이벤트 8. 트롯콘서트 9. 밴드콘서트 10. 상설운영 - 김치마을 팝업존 - 플리마켓 - 고원구이존 - 먹거리부스 11. 우리집 김장담그기 체험 - 1일 3타임 - 체험비 : 185,000원(1세트 절임배추 20kg + 양념 10kg) - 모집기간 : 선착순마감시까지",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "전북특별자치도 진안군 진안읍 진무로 1166 진안로컬푸드진안점",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#6C63FF",
-      "tint": "#EEEAFE",
-      "emoji": "🎪",
-      "officialUrl": "https://www.jinankimchi.kr/",
-      "sourceName": "대한민국 구석구석 축제",
-      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=6f06d9ff-2f4a-4c99-ac44-92d831c88e77",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
-      "sourceUpdatedAt": "2026-11-10",
-      "evidenceUrls": [
-        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=6f06d9ff-2f4a-4c99-ac44-92d831c88e77",
-        "https://www.jinankimchi.kr/",
-        "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/6f06d9ff-2f4a-4c99-ac44-92d831c88e77_58.jpeg"
-      ],
-      "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/6f06d9ff-2f4a-4c99-ac44-92d831c88e77_58.jpeg",
-      "editorialVerifiedAt": null,
-      "featured": false
-    },
-    {
-      "id": "funseoul-812",
-      "title": "대학로 리브랜딩 캠페인 [대-락(樂)로]",
-      "area": "서울특별시 종로구",
-      "location": {
-        "latitude": 37.583389560237,
-        "longitude": 127.001322132303
-      },
-      "distanceKm": 3,
-      "dateLabel": "8.1–11.21",
-      "startDate": "2026-08-01",
-      "endDate": "2026-11-21",
-      "price": "무료",
-      "priceDetail": "무료",
-      "themes": [
-        "culture"
-      ],
-      "fit": "문화 산책·주말 나들이",
-      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "서울연극센터 1층 라운지",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#B2763D",
-      "tint": "#F8EFE4",
-      "emoji": "🎭",
-      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=812",
-      "sourceName": "서울시 펀서울",
-      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=812",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
-      "sourceUpdatedAt": null,
-      "evidenceUrls": [
-        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=812"
-      ],
-      "officialImageUrl": null,
-      "editorialVerifiedAt": null,
-      "visitFacts": [
-        {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=812",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
-          "eventStartDate": "2026-08-01",
-          "eventEndDate": "2026-11-21",
-          "kind": "hours",
-          "text": "매주 토요일 17:00, 22:00"
-        },
-        {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=812",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
-          "eventStartDate": "2026-08-01",
-          "eventEndDate": "2026-11-21",
-          "kind": "audience",
-          "text": "프로그램 별 상이"
-        },
-        {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=812",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
-          "eventStartDate": "2026-08-01",
-          "eventEndDate": "2026-11-21",
-          "kind": "schedule",
-          "text": "매주 토요일 17:00, 22:00",
-          "operatingWeekdays": [
-            6
-          ]
         }
       ],
       "featured": false
@@ -287,7 +174,7 @@
       "officialUrl": "https://phcf.or.kr/phcf/festival/submain.do?festival_id=FST_LIGHT_2026_001",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=1a7b7f32-e5a4-47b1-9e35-4a87499eccd8",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": "2026-10-23",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=1a7b7f32-e5a4-47b1-9e35-4a87499eccd8",
@@ -296,6 +183,168 @@
       ],
       "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/1a7b7f32-e5a4-47b1-9e35-4a87499eccd8_102.jpg",
       "editorialVerifiedAt": null,
+      "featured": false
+    },
+    {
+      "id": "funseoul-812",
+      "title": "대학로 리브랜딩 캠페인 [대-락(樂)로]",
+      "area": "서울특별시 종로구",
+      "location": {
+        "latitude": 37.583389560237,
+        "longitude": 127.001322132303
+      },
+      "distanceKm": 3,
+      "dateLabel": "8.1–11.21",
+      "startDate": "2026-08-01",
+      "endDate": "2026-11-21",
+      "price": "무료",
+      "priceDetail": "무료",
+      "themes": [
+        "culture"
+      ],
+      "fit": "문화 산책·주말 나들이",
+      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "서울연극센터 1층 라운지",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#B2763D",
+      "tint": "#F8EFE4",
+      "emoji": "🎭",
+      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=812",
+      "sourceName": "서울시 펀서울",
+      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=812",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+      "sourceUpdatedAt": null,
+      "evidenceUrls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=812"
+      ],
+      "officialImageUrl": null,
+      "editorialVerifiedAt": null,
+      "visitFacts": [
+        {
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=812",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
+          "eventStartDate": "2026-08-01",
+          "eventEndDate": "2026-11-21",
+          "kind": "hours",
+          "text": "매주 토요일 17:00, 22:00"
+        },
+        {
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=812",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
+          "eventStartDate": "2026-08-01",
+          "eventEndDate": "2026-11-21",
+          "kind": "audience",
+          "text": "프로그램 별 상이"
+        },
+        {
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=812",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
+          "eventStartDate": "2026-08-01",
+          "eventEndDate": "2026-11-21",
+          "kind": "schedule",
+          "text": "매주 토요일 17:00, 22:00",
+          "operatingWeekdays": [
+            6
+          ]
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "standard-8fb7294c9ba0b44fa629",
+      "title": "진안고원 김치보쌈축제",
+      "area": "전북특별자치도 진안군",
+      "location": {
+        "latitude": 35.79531631244133,
+        "longitude": 127.43393002774478
+      },
+      "distanceKm": 201,
+      "dateLabel": "11.14–11.15",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "price": "무료",
+      "priceDetail": "무료 (일부 체험 프로그램 유료 - 우리집 김장담그기 체험)",
+      "themes": [
+        "family",
+        "food",
+        "nature",
+        "culture"
+      ],
+      "fit": "아이와 함께·가족 나들이",
+      "summary": "진안고원 김치보쌈축제는 전북특별자치도 진안군에서 개최되는 지역축제로, 우리나라 고유의 전통문화인 김장문화를 축제와 접목하여 가족과 이웃이 함께하는 공동체 문화를 확산하기 위해 마련된 축제이다. 핵가족화와 1인 가구 증가 등으로 점차 변화하는 식생활 환경 속에서 김장문화의 전통적 가치를 되새기고, 김치를 함께 담그고 나누는 과정을 통해 이웃 간 정을 나누는 데 목적이 있다. 진안고원의 청정 자연환경에서 생산된 지역 농산물을 활용한 김장 체험과 김치 및 보쌈 먹거리 프로그램 등 다양한 체험·참여 행사가 운영되며, 지역 농특산물의 우수성을 알리고 지역 농산물 소비를 촉진하는 역할도 하고 있다. 전통 김장문화의 계승과 지역 농산물의 가치를 함께 경험할 수 있는 축제이다.",
+      "program": "1. 개막행사 2. 무대 이벤트 3. 신나는 예술버스 4. 김장골든벨 5. SHOW ME THE 김장 6. 가을음악콘서트 7. 홍삼칵테일 이벤트 8. 트롯콘서트 9. 밴드콘서트 10. 상설운영 - 김치마을 팝업존 - 플리마켓 - 고원구이존 - 먹거리부스 11. 우리집 김장담그기 체험 - 1일 3타임 - 체험비 : 185,000원(1세트 절임배추 20kg + 양념 10kg) - 모집기간 : 선착순마감시까지",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "전북특별자치도 진안군 진안읍 진무로 1166 진안로컬푸드진안점",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#6C63FF",
+      "tint": "#EEEAFE",
+      "emoji": "🎪",
+      "officialUrl": "https://www.jinankimchi.kr/",
+      "sourceName": "대한민국 구석구석 축제",
+      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=6f06d9ff-2f4a-4c99-ac44-92d831c88e77",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+      "sourceUpdatedAt": "2026-11-10",
+      "evidenceUrls": [
+        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=6f06d9ff-2f4a-4c99-ac44-92d831c88e77",
+        "https://www.jinankimchi.kr/",
+        "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/6f06d9ff-2f4a-4c99-ac44-92d831c88e77_58.jpeg"
+      ],
+      "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/6f06d9ff-2f4a-4c99-ac44-92d831c88e77_58.jpeg",
+      "editorialVerifiedAt": null,
+      "featured": false
+    },
+    {
+      "id": "funseoul-393",
+      "title": "제3회 서울조각페스티벌",
+      "area": "서울특별시 광진구",
+      "location": {
+        "latitude": 37.5766601107966,
+        "longitude": 126.981400683317
+      },
+      "distanceKm": 1,
+      "dateLabel": "8.29–11.30",
+      "startDate": "2026-08-29",
+      "endDate": "2026-11-30",
+      "price": "무료",
+      "priceDetail": "무료",
+      "themes": [
+        "culture"
+      ],
+      "fit": "문화 산책·주말 나들이",
+      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "열린송현녹지광장, 뚝섬한강공원",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#B2763D",
+      "tint": "#F8EFE4",
+      "emoji": "🎭",
+      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=393",
+      "sourceName": "서울시 펀서울",
+      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=393",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+      "sourceUpdatedAt": null,
+      "evidenceUrls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=393"
+      ],
+      "officialImageUrl": null,
+      "editorialVerifiedAt": null,
+      "visitFacts": [
+        {
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=393",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
+          "eventStartDate": "2026-08-29",
+          "eventEndDate": "2026-11-30",
+          "kind": "hours",
+          "text": "전시 : 8.29.~11.30. 상시운영 / 프로그램 : 토 16:00~21:00, 일 14:00~21:00, 월 - 금 17:00~21:00"
+        }
+      ],
       "featured": false
     },
     {
@@ -331,7 +380,7 @@
       "officialUrl": "https://www.xn--331br0fh8ct4gsta39jcye4pmo9gg0d0sk.com/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=870226d8-7912-4405-b4f6-8fadba5ddff0",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": "2026-10-28",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=870226d8-7912-4405-b4f6-8fadba5ddff0",
@@ -340,55 +389,6 @@
       ],
       "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/870226d8-7912-4405-b4f6-8fadba5ddff0_49.jpg",
       "editorialVerifiedAt": null,
-      "featured": false
-    },
-    {
-      "id": "funseoul-393",
-      "title": "제3회 서울조각페스티벌",
-      "area": "서울특별시 광진구",
-      "location": {
-        "latitude": 37.5766601107966,
-        "longitude": 126.981400683317
-      },
-      "distanceKm": 1,
-      "dateLabel": "8.29–11.30",
-      "startDate": "2026-08-29",
-      "endDate": "2026-11-30",
-      "price": "무료",
-      "priceDetail": "무료",
-      "themes": [
-        "culture"
-      ],
-      "fit": "문화 산책·주말 나들이",
-      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "열린송현녹지광장, 뚝섬한강공원",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#B2763D",
-      "tint": "#F8EFE4",
-      "emoji": "🎭",
-      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=393",
-      "sourceName": "서울시 펀서울",
-      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=393",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
-      "sourceUpdatedAt": null,
-      "evidenceUrls": [
-        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=393"
-      ],
-      "officialImageUrl": null,
-      "editorialVerifiedAt": null,
-      "visitFacts": [
-        {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=393",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
-          "eventStartDate": "2026-08-29",
-          "eventEndDate": "2026-11-30",
-          "kind": "hours",
-          "text": "전시 : 8.29.~11.30. 상시운영 / 프로그램 : 토 16:00~21:00, 일 14:00~21:00, 월 - 금 17:00~21:00"
-        }
-      ],
       "featured": false
     },
     {
@@ -423,7 +423,7 @@
       "officialUrl": "https://www.busanfolkartfestival.com/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5baa5877-b11e-4673-949e-abe21b3b3d62",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": "2026-10-23",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5baa5877-b11e-4673-949e-abe21b3b3d62",
@@ -431,47 +431,6 @@
         "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/5baa5877-b11e-4673-949e-abe21b3b3d62_117.jpg"
       ],
       "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/5baa5877-b11e-4673-949e-abe21b3b3d62_117.jpg",
-      "editorialVerifiedAt": null,
-      "featured": false
-    },
-    {
-      "id": "c25775aa-a6ec-4a31-a836-966860c49da5",
-      "title": "게임문화축제",
-      "area": "부산광역시 해운대구",
-      "location": {
-        "latitude": 35.1657825586672,
-        "longitude": 129.135026643506
-      },
-      "distanceKm": 329,
-      "dateLabel": "11.19–11.22",
-      "startDate": "2026-11-19",
-      "endDate": "2026-11-22",
-      "price": "무료",
-      "priceDetail": "무료",
-      "themes": [
-        "family",
-        "culture"
-      ],
-      "fit": "아이와 함께·가족 나들이",
-      "summary": "'2026 게임문화축제'는 게임의 문화적 가치를 확산하고, 남녀노소 누구나 즐겁게 몰입할 수 있는 다채로운 체험과 향유의 기회를 제공하는 대한민국 대표 게임 페스티벌이다. 올해 축제는 세계인의 마음을 사로잡은 K-컬쳐 대표 게임IP전시부터, 웅장한 국악 선율로 재탄생하는 감동적인 게임OST 라이브 공연까지 다채로운 볼거리와 즐길 거리를 선보인다. 또한, 온 가족이 함께 소통하며 추억쌓는 게임 체험존과 손에 땀을 쥐게하는 박진감 넘치는 e스포츠 대회, 누구나 참여할 수 있는 다양한 이벤트 프로그램이 현장을 가득 채운다. 단순한 플레이를 넘어 예술과 문화, 세대 간 소통으로 이어지는 특별한 경험! 즐거움 그 이상의 감동이 있는 '2026 게임문화축제'에서 느껴볼 수 있다.",
-      "program": "1. 주요 프로그램 - 게임 IP 전시 체험관 (국내외 인기 게임의 세계관을 반영한 몰입형 체험존에서 게임 콘텐츠 전시 및 체험) 2. 부대 프로그램 - 게임 OST 공연(11/19, 주요 게임사의 OST를 국악과 대중음악으로 재해석한 라이브 공연), 이스포츠대회(11/21, 발로란트 아마추어 본선 대회) 3. 이벤트 프로그램 - 스탬프 투어 리워드, 만족도 조사 리워드 등 미션 게임을 통한 기념품 배포(프로그램 완료한 분들 대상으로 제공 등), 게릴라 이벤트(실루엣 퀴즈, 3초 퀴즈, OX퀴즈 등), 타임 이벤트(K-GAME 퀴즈, 럭키드로우), 이스포츠 뷰잉 파티(발로란트 아마추어 대회 중계), IP 스페셜 이벤트(게스트 토크, 팬 퀴즈 등)",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "부산광역시 해운대구 APEC로 30 (우동) 1층",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#6C63FF",
-      "tint": "#EEEAFE",
-      "emoji": "🎪",
-      "officialUrl": "https://kgcf.kr/",
-      "sourceName": "대한민국 구석구석 축제",
-      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=c25775aa-a6ec-4a31-a836-966860c49da5",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
-      "sourceUpdatedAt": "2026-10-26",
-      "evidenceUrls": [
-        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=c25775aa-a6ec-4a31-a836-966860c49da5",
-        "https://kgcf.kr/",
-        "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/c25775aa-a6ec-4a31-a836-966860c49da5_4.png"
-      ],
-      "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/c25775aa-a6ec-4a31-a836-966860c49da5_4.png",
       "editorialVerifiedAt": null,
       "featured": false
     },
@@ -505,7 +464,7 @@
       "officialUrl": "https://tour.muan.go.kr/tour/festival/yd_festival/introduce",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=47cc094e-78e5-4ebc-a7d5-f65430621719",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": "2026-10-20",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=47cc094e-78e5-4ebc-a7d5-f65430621719",
@@ -513,6 +472,47 @@
         "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/47cc094e-78e5-4ebc-a7d5-f65430621719_26.JPG"
       ],
       "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/47cc094e-78e5-4ebc-a7d5-f65430621719_26.JPG",
+      "editorialVerifiedAt": null,
+      "featured": false
+    },
+    {
+      "id": "c25775aa-a6ec-4a31-a836-966860c49da5",
+      "title": "게임문화축제",
+      "area": "부산광역시 해운대구",
+      "location": {
+        "latitude": 35.1657825586672,
+        "longitude": 129.135026643506
+      },
+      "distanceKm": 329,
+      "dateLabel": "11.19–11.22",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-22",
+      "price": "무료",
+      "priceDetail": "무료",
+      "themes": [
+        "family",
+        "culture"
+      ],
+      "fit": "아이와 함께·가족 나들이",
+      "summary": "'2026 게임문화축제'는 게임의 문화적 가치를 확산하고, 남녀노소 누구나 즐겁게 몰입할 수 있는 다채로운 체험과 향유의 기회를 제공하는 대한민국 대표 게임 페스티벌이다. 올해 축제는 세계인의 마음을 사로잡은 K-컬쳐 대표 게임IP전시부터, 웅장한 국악 선율로 재탄생하는 감동적인 게임OST 라이브 공연까지 다채로운 볼거리와 즐길 거리를 선보인다. 또한, 온 가족이 함께 소통하며 추억쌓는 게임 체험존과 손에 땀을 쥐게하는 박진감 넘치는 e스포츠 대회, 누구나 참여할 수 있는 다양한 이벤트 프로그램이 현장을 가득 채운다. 단순한 플레이를 넘어 예술과 문화, 세대 간 소통으로 이어지는 특별한 경험! 즐거움 그 이상의 감동이 있는 '2026 게임문화축제'에서 느껴볼 수 있다.",
+      "program": "1. 주요 프로그램 - 게임 IP 전시 체험관 (국내외 인기 게임의 세계관을 반영한 몰입형 체험존에서 게임 콘텐츠 전시 및 체험) 2. 부대 프로그램 - 게임 OST 공연(11/19, 주요 게임사의 OST를 국악과 대중음악으로 재해석한 라이브 공연), 이스포츠대회(11/21, 발로란트 아마추어 본선 대회) 3. 이벤트 프로그램 - 스탬프 투어 리워드, 만족도 조사 리워드 등 미션 게임을 통한 기념품 배포(프로그램 완료한 분들 대상으로 제공 등), 게릴라 이벤트(실루엣 퀴즈, 3초 퀴즈, OX퀴즈 등), 타임 이벤트(K-GAME 퀴즈, 럭키드로우), 이스포츠 뷰잉 파티(발로란트 아마추어 대회 중계), IP 스페셜 이벤트(게스트 토크, 팬 퀴즈 등)",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "부산광역시 해운대구 APEC로 30 (우동) 1층",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#6C63FF",
+      "tint": "#EEEAFE",
+      "emoji": "🎪",
+      "officialUrl": "https://kgcf.kr/",
+      "sourceName": "대한민국 구석구석 축제",
+      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=c25775aa-a6ec-4a31-a836-966860c49da5",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+      "sourceUpdatedAt": "2026-10-26",
+      "evidenceUrls": [
+        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=c25775aa-a6ec-4a31-a836-966860c49da5",
+        "https://kgcf.kr/",
+        "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/c25775aa-a6ec-4a31-a836-966860c49da5_4.png"
+      ],
+      "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/c25775aa-a6ec-4a31-a836-966860c49da5_4.png",
       "editorialVerifiedAt": null,
       "featured": false
     },
@@ -545,7 +545,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=383",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=383",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=383"
@@ -555,8 +555,8 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=383",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-09-18",
           "eventEndDate": "2026-11-29",
           "kind": "hours",
@@ -564,8 +564,8 @@
         },
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=383",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-09-18",
           "eventEndDate": "2026-11-29",
           "kind": "audience",
@@ -605,7 +605,7 @@
       "officialUrl": "https://www.pajucf.or.kr/business/02_4.php",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5731ca2a-5bab-4148-94d2-556f59dd0a69",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": "2026-10-20",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=5731ca2a-5bab-4148-94d2-556f59dd0a69",
@@ -645,7 +645,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=923",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=923",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=923"
@@ -655,8 +655,8 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=923",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-10-03",
           "eventEndDate": "2026-11-28",
           "kind": "hours",
@@ -664,8 +664,8 @@
         },
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=923",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-10-03",
           "eventEndDate": "2026-11-28",
           "kind": "audience",
@@ -675,44 +675,44 @@
       "featured": false
     },
     {
-      "id": "06c85b3f-b302-4025-9cc5-27ec77b3a5ff",
-      "title": "포천펫스타",
-      "area": "경기도 포천시",
+      "id": "b3b7a23c-c7f6-45db-930a-b139e4d8cd9f",
+      "title": "해운대 빛축제",
+      "area": "부산광역시 해운대구",
       "location": {
-        "latitude": 37.9234466506997,
-        "longitude": 127.236500949033
+        "latitude": 35.1592056511321,
+        "longitude": 129.161536547468
       },
-      "distanceKm": 46,
-      "dateLabel": "11.14",
-      "startDate": "2026-11-14",
-      "endDate": "2026-11-14",
-      "price": "유료",
-      "priceDetail": "유료(아트밸리 입장료 참고)",
+      "distanceKm": 331,
+      "dateLabel": "11.28–1.10",
+      "startDate": "2026-11-28",
+      "endDate": "2027-01-10",
+      "price": "무료",
+      "priceDetail": "무료",
       "themes": [
-        "family",
+        "night",
         "nature",
         "culture"
       ],
-      "fit": "아이와 함께·가족 나들이",
-      "summary": "2026 포천 펫스타 in 아트밸리는 반려가족과 시민이 함께 즐기고 소통하는 참여형 반려동물 문화축제이다. 아름다운 자연경관과 예술이 어우러진 포천아트밸리를 배경으로 반려견과 함께 도전하는 '멍파서블', 반려견과 함께 걷는 '아트밸리 힐링숲 트레킹', 도그 필라테스, 반려견 올림픽, 펫티켓 골든벨 등 다채로운 참여형 프로그램을 운영한다. 또한 반려견 놀이터와 다양한 체험부스, 문화공연 및 이벤트를 통해 반려인과 비반려인 모두가 즐길 수 있는 특별한 축제의 장을 마련한다. 이번 축제는 반려견과 함께하는 다양한 활동을 통해 일상에서 벗어난 특별한 추억과 즐거움을 선사하는 동시에, 반려동물에 대한 올바른 이해와 책임 있는 반려문화의 중요성을 알리고 생명존중과 동물복지의 가치를 확산하는 데 목적이 있다. 나아가 반려인과 비반려인이 서로 공감하고 소통할 수 있는 기회를 제공함으로써 반려동물에 대한 긍정적인 인식을 높이고, 사람과 동물이 조화롭게 공존하는 성숙한 반려문화 정착에 기여하고자 한다.",
-      "program": "1. 메인 프로그램 - 댕댕이 도전! 미션 멍-파서블, 설채현 수의사 토크콘서트, 포천 펫트립(아트밸리 힐링숲 트레킹) 2. 체험 프로그램 - 펫림픽, 도그 필라테스, 피크닉 공연 3. 부대 프로그램 - 반려동물 참여형 이벤트 및 현장 체험 프로그램",
+      "fit": "저녁 데이트·사진 산책",
+      "summary": "해운대구(구청장 김성수)는 11월 28일 점등식을 시작으로 내년 1월 10일까지 제13회 해운대빛축제를 연다. 올해 축제의 주제는 ‘딥 다이브 해운대(Deep Dive Haeundae)’로 수면에서 심해로 깊이 들어갈수록 더 밝아지는 빛의 여정을 선보인다. 해운대스퀘어(구남로)와 해수욕장 백사장까지 이어지는 공간에 바다, 항해, 심해를 테마로 한 다채로운 빛 조형물과 미디어아트를 설치해 방문객들에게 바닷속을 직접 탐험하는 듯한 몰입형 경험을 선사할 예정이다. 축제 기간 해운대스퀘어는 깊은 바다를 향해 떠나는 역동적인 항해의 공간으로 꾸며진다. 크루즈의 출항을 알리는 ‘크루즈 게이트’와 30m 규모의 빛의 터널이 관람객을 맞이한다. 파도를 모티브로 한 포토존과 크루즈 선상파티를 연상시키는 빛 조형물이 이어지고, 대형 다이버 조형물에 설치된 LED패널에서는 바다 탐험 미디어아트가 상영돼 시선을 사로잡을 예정이다. 해운대스퀘어를 밝히는 크리스마스 트리도 한층 특별하게 꾸민다. 최대 높이 6m를 비롯해 모두 11개로 풍성한 ‘크리스마스 트리 숲’을 조성해 동화 같은 겨울 풍경을 연출한다. 크리스마스에는 스노우 머신을 가동해 눈 내리는 화이트 크리스마스의 낭만을 더한다. 백사장으로 들어서면 본격적인 ‘심해 탐험’이 시작된다. 백사장 중심에는 축제의 랜드마크인 길이 12m의 배 조형물이 서 있다. 그 주변으로 다양한 해양생물과 대형 고래, 잠수함 조형물, 바다거북 아치 등이 깊은 바닷속 풍경을 그려낸다. 빛의 여정 끝자락에서는 영롱한 빛을 내뿜는 대형 진주 조개 조형물과 황금빛 보물상자를 마주하게 된다. 수면에서 시작된 탐험이 깊은 바다의 보석 숲으로 완성되며 감동을 선사한다. 올해 축제는 단순히 감상하는 데 그치지 않고 방문객이 함께 완성하는 체험형 콘텐츠를 대폭 강화한 것이 특징이다. 축제장 곳곳에는 관람객의 손길에 따라 색이 변하는 ‘인터랙티브 조명’을 설치해 누구나 직접 빛을 움직이고 변화시키는 즐거움을 느낄 수 있다. 해수욕장 끝자락 등대 조형물에는 새해 소망을 남길 수 있는 '위시 메시지존'과 2027년 새해를 기념하는 포토존이 운영된다. 축제 기간 주말에는 야광 바다팔찌, 어항램프 무드등 만들기 등 다채로운 체험 프로그램이 열려 방문객들은 특별한 겨울 추억을 간직할 수 있다.",
+      "program": "1. 빛 조형물 전시 - 해운대스퀘어(구남로): 크루즈게이트, 터널게이트, 달포토존, 분수포토존, 크루즈 페스타, 대형 다이버 벌룬, 크리스마스트리 등 - 해운대해수욕장: 대형 배 조형물, 심해탐사기지(잠수함), 미지의 서식지(닻 조형물), 심해 라운지(대형 거북 조형물), 심해의 보물(보물상자, 대형 조개 조형물) 등 2. 체험프로그램 - 야광 바다팔찌 만들기, 보석십자수 무드등 만들기 3. 점등행사 - 불꽃쇼 및 공연",
       "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "경기도 포천시 신북면 아트밸리로 234 포천 아트밸리",
+      "venue": "부산광역시 해운대구 중동 1411-14 구남로, 해운대해수욕장 일원",
       "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#6C63FF",
-      "tint": "#EEEAFE",
-      "emoji": "🎪",
-      "officialUrl": "https://p-petstar.imweb.me/",
+      "accent": "#3478D4",
+      "tint": "#E9F2FF",
+      "emoji": "✨",
+      "officialUrl": "https://www.haeundae.go.kr/tour/index.do?menuCd=DOM_000000309006000000",
       "sourceName": "대한민국 구석구석 축제",
-      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=06c85b3f-b302-4025-9cc5-27ec77b3a5ff",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
-      "sourceUpdatedAt": "2026-11-03",
+      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=b3b7a23c-c7f6-45db-930a-b139e4d8cd9f",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+      "sourceUpdatedAt": "2026-11-12",
       "evidenceUrls": [
-        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=06c85b3f-b302-4025-9cc5-27ec77b3a5ff",
-        "https://p-petstar.imweb.me/",
-        "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/06c85b3f-b302-4025-9cc5-27ec77b3a5ff_126.jpg"
+        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=b3b7a23c-c7f6-45db-930a-b139e4d8cd9f",
+        "https://www.haeundae.go.kr/tour/index.do?menuCd=DOM_000000309006000000",
+        "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/b3b7a23c-c7f6-45db-930a-b139e4d8cd9f_53.jpg"
       ],
-      "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/06c85b3f-b302-4025-9cc5-27ec77b3a5ff_126.jpg",
+      "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/b3b7a23c-c7f6-45db-930a-b139e4d8cd9f_53.jpg",
       "editorialVerifiedAt": null,
       "featured": false
     },
@@ -745,7 +745,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=948",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=948",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=948"
@@ -757,7 +757,7 @@
           "kind": "hours",
           "text": "남산캠프닉 17:00~22:00 / 단풍산책 16:00 / 남산 팔각클럽 17:30~19:00, 19:30~21:00",
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=948",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-14",
           "eventStartDate": "2026-10-23",
           "eventEndDate": "2026-11-14"
@@ -766,7 +766,7 @@
           "kind": "audience",
           "text": "시민 누구나",
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=948",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-14",
           "eventStartDate": "2026-10-23",
           "eventEndDate": "2026-11-14"
@@ -803,7 +803,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=855",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=855",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=855"
@@ -813,8 +813,8 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=855",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-11-04",
           "eventEndDate": "2026-11-29",
           "kind": "hours",
@@ -822,14 +822,56 @@
         },
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=855",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-11-04",
           "eventEndDate": "2026-11-29",
           "kind": "audience",
           "text": "만7세 이상 관람 가능"
         }
       ],
+      "featured": false
+    },
+    {
+      "id": "06c85b3f-b302-4025-9cc5-27ec77b3a5ff",
+      "title": "포천펫스타",
+      "area": "경기도 포천시",
+      "location": {
+        "latitude": 37.9234466506997,
+        "longitude": 127.236500949033
+      },
+      "distanceKm": 46,
+      "dateLabel": "11.29",
+      "startDate": "2026-11-29",
+      "endDate": "2026-11-29",
+      "price": "유료",
+      "priceDetail": "유료(아트밸리 입장료 참고)",
+      "themes": [
+        "family",
+        "nature",
+        "culture"
+      ],
+      "fit": "아이와 함께·가족 나들이",
+      "summary": "2026 포천 펫스타 in 아트밸리는 반려가족과 시민이 함께 즐기고 소통하는 참여형 반려동물 문화축제이다. 아름다운 자연경관과 예술이 어우러진 포천아트밸리를 배경으로 반려견과 함께 도전하는 '멍파서블', 반려견과 함께 걷는 '아트밸리 힐링숲 트레킹', 도그 필라테스, 반려견 올림픽, 펫티켓 골든벨 등 다채로운 참여형 프로그램을 운영한다. 또한 반려견 놀이터와 다양한 체험부스, 문화공연 및 이벤트를 통해 반려인과 비반려인 모두가 즐길 수 있는 특별한 축제의 장을 마련한다. 이번 축제는 반려견과 함께하는 다양한 활동을 통해 일상에서 벗어난 특별한 추억과 즐거움을 선사하는 동시에, 반려동물에 대한 올바른 이해와 책임 있는 반려문화의 중요성을 알리고 생명존중과 동물복지의 가치를 확산하는 데 목적이 있다. 나아가 반려인과 비반려인이 서로 공감하고 소통할 수 있는 기회를 제공함으로써 반려동물에 대한 긍정적인 인식을 높이고, 사람과 동물이 조화롭게 공존하는 성숙한 반려문화 정착에 기여하고자 한다.",
+      "program": "1. 메인 프로그램 - 댕댕이 도전! 미션 멍-파서블, 설채현 수의사 토크콘서트, 포천 펫트립(아트밸리 힐링숲 트레킹) 2. 체험 프로그램 - 펫림픽, 도그 필라테스, 피크닉 공연 3. 부대 프로그램 - 반려동물 참여형 이벤트 및 현장 체험 프로그램",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "경기도 포천시 신북면 아트밸리로 234 포천 아트밸리",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#6C63FF",
+      "tint": "#EEEAFE",
+      "emoji": "🎪",
+      "officialUrl": "https://p-petstar.imweb.me/",
+      "sourceName": "대한민국 구석구석 축제",
+      "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=06c85b3f-b302-4025-9cc5-27ec77b3a5ff",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+      "sourceUpdatedAt": "2026-11-12",
+      "evidenceUrls": [
+        "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=06c85b3f-b302-4025-9cc5-27ec77b3a5ff",
+        "https://p-petstar.imweb.me/",
+        "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/06c85b3f-b302-4025-9cc5-27ec77b3a5ff_146.jpg"
+      ],
+      "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/06c85b3f-b302-4025-9cc5-27ec77b3a5ff_146.jpg",
+      "editorialVerifiedAt": null,
       "featured": false
     },
     {
@@ -861,7 +903,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=974",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=974",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=974"
@@ -871,8 +913,8 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=974",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-11-08",
           "eventEndDate": "2026-11-22",
           "kind": "hours",
@@ -911,7 +953,7 @@
       "officialUrl": "https://yctf.or.kr/aspf/",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=fa981ab3-f799-409f-9c3e-7e1131936640",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": "2026-11-11",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=fa981ab3-f799-409f-9c3e-7e1131936640",
@@ -920,64 +962,6 @@
       ],
       "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/fa981ab3-f799-409f-9c3e-7e1131936640_74.jpg",
       "editorialVerifiedAt": null,
-      "featured": false
-    },
-    {
-      "id": "funseoul-970",
-      "title": "2026 창의예술주간 둥둥제",
-      "area": "서울특별시 영등포구",
-      "location": {
-        "latitude": 37.5377566064273,
-        "longitude": 126.895933074407
-      },
-      "distanceKm": 8,
-      "dateLabel": "11.13–11.28",
-      "startDate": "2026-11-13",
-      "endDate": "2026-11-28",
-      "price": "무료",
-      "priceDetail": "무료",
-      "themes": [
-        "culture"
-      ],
-      "fit": "문화 산책·주말 나들이",
-      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "YDP창의예술교육센터",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#B2763D",
-      "tint": "#F8EFE4",
-      "emoji": "🎭",
-      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=970",
-      "sourceName": "서울시 펀서울",
-      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=970",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
-      "sourceUpdatedAt": null,
-      "evidenceUrls": [
-        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=970"
-      ],
-      "officialImageUrl": null,
-      "editorialVerifiedAt": null,
-      "visitFacts": [
-        {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=970",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
-          "eventStartDate": "2026-11-13",
-          "eventEndDate": "2026-11-28",
-          "kind": "hours",
-          "text": "화-금 10:30~20:00 / 토 10:30~19:00"
-        },
-        {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=970",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
-          "eventStartDate": "2026-11-13",
-          "eventEndDate": "2026-11-28",
-          "kind": "audience",
-          "text": "누구나"
-        }
-      ],
       "featured": false
     },
     {
@@ -1009,7 +993,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=955",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=955",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=955"
@@ -1019,7 +1003,7 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=955",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-15",
           "eventStartDate": "2026-11-13",
           "eventEndDate": "2026-11-15",
@@ -1028,7 +1012,7 @@
         },
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=955",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-15",
           "eventStartDate": "2026-11-13",
           "eventEndDate": "2026-11-15",
@@ -1039,17 +1023,17 @@
       "featured": false
     },
     {
-      "id": "funseoul-969",
-      "title": "2026 K-콘텐츠 서울여행주간",
-      "area": "서울특별시 구로구",
+      "id": "funseoul-970",
+      "title": "2026 창의예술주간 둥둥제",
+      "area": "서울특별시 영등포구",
       "location": {
-        "latitude": 37.4982125677913,
-        "longitude": 126.867088741096
+        "latitude": 37.5377566064273,
+        "longitude": 126.895933074407
       },
-      "distanceKm": 12,
-      "dateLabel": "11.14–11.20",
-      "startDate": "2026-11-14",
-      "endDate": "2026-11-20",
+      "distanceKm": 8,
+      "dateLabel": "11.13–11.28",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-28",
       "price": "무료",
       "priceDetail": "무료",
       "themes": [
@@ -1059,39 +1043,39 @@
       "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
       "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
       "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "고척스카이돔, DDP 어울림광장 등",
+      "venue": "YDP창의예술교육센터",
       "hours": "운영 시간은 공식 공지 확인",
       "accent": "#B2763D",
       "tint": "#F8EFE4",
       "emoji": "🎭",
-      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=969",
+      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=970",
       "sourceName": "서울시 펀서울",
-      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=969",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=970",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
-        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=969"
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=970"
       ],
       "officialImageUrl": null,
       "editorialVerifiedAt": null,
       "visitFacts": [
         {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=969",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
-          "eventStartDate": "2026-11-14",
-          "eventEndDate": "2026-11-20",
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=970",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
+          "eventStartDate": "2026-11-13",
+          "eventEndDate": "2026-11-28",
           "kind": "hours",
-          "text": "12:00~18:00"
+          "text": "화-금 10:30~20:00 / 토 10:30~19:00"
         },
         {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=969",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
-          "eventStartDate": "2026-11-14",
-          "eventEndDate": "2026-11-20",
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=970",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
+          "eventStartDate": "2026-11-13",
+          "eventEndDate": "2026-11-28",
           "kind": "audience",
-          "text": "방한 외국인 관광객"
+          "text": "누구나"
         }
       ],
       "featured": false
@@ -1127,7 +1111,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=977",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=977",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=977"
@@ -1137,7 +1121,7 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=977",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-15",
           "eventStartDate": "2026-11-14",
           "eventEndDate": "2026-11-15",
@@ -1146,12 +1130,186 @@
         },
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=977",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-15",
           "eventStartDate": "2026-11-14",
           "eventEndDate": "2026-11-15",
           "kind": "audience",
           "text": "누구나 (가족 단위 관람 환영)"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "funseoul-986",
+      "title": "2026 서울 달빛미식회",
+      "area": "서울특별시 중구",
+      "location": {
+        "latitude": 37.5606911024659,
+        "longitude": 126.977113271948
+      },
+      "distanceKm": 1,
+      "dateLabel": "11.14–11.21",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-21",
+      "price": "요금 확인",
+      "priceDetail": "공식 공지에서 요금을 확인해 주세요.",
+      "themes": [
+        "culture"
+      ],
+      "fit": "문화 산책·주말 나들이",
+      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "남대문시장 아케이드 (서울시 중구 남대문로 12-2 일대)",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#B2763D",
+      "tint": "#F8EFE4",
+      "emoji": "🎭",
+      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=986",
+      "sourceName": "서울시 펀서울",
+      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=986",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+      "sourceUpdatedAt": null,
+      "evidenceUrls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=986"
+      ],
+      "officialImageUrl": null,
+      "editorialVerifiedAt": null,
+      "visitFacts": [
+        {
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=986",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
+          "eventStartDate": "2026-11-14",
+          "eventEndDate": "2026-11-21",
+          "kind": "hours",
+          "text": "18:00~21:00"
+        },
+        {
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=986",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
+          "eventStartDate": "2026-11-14",
+          "eventEndDate": "2026-11-21",
+          "kind": "audience",
+          "text": "누구나"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "funseoul-985",
+      "title": "공정한 사이: 서울에서 만나는 좋은 거래들",
+      "area": "서울특별시 중구",
+      "location": {
+        "latitude": 37.56495405322504,
+        "longitude": 126.9756419986986
+      },
+      "distanceKm": 0,
+      "dateLabel": "11.14",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-14",
+      "price": "요금 확인",
+      "priceDetail": "공식 공지에서 요금을 확인해 주세요.",
+      "themes": [
+        "culture"
+      ],
+      "fit": "문화 산책·주말 나들이",
+      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "덕수궁길 차 없는 거리",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#B2763D",
+      "tint": "#F8EFE4",
+      "emoji": "🎭",
+      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=985",
+      "sourceName": "서울시 펀서울",
+      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=985",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+      "sourceUpdatedAt": null,
+      "evidenceUrls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=985"
+      ],
+      "officialImageUrl": null,
+      "editorialVerifiedAt": null,
+      "visitFacts": [
+        {
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=985",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-14",
+          "eventStartDate": "2026-11-14",
+          "eventEndDate": "2026-11-14",
+          "kind": "hours",
+          "text": "10:00~19:00"
+        },
+        {
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=985",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-14",
+          "eventStartDate": "2026-11-14",
+          "eventEndDate": "2026-11-14",
+          "kind": "audience",
+          "text": "누구나"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "funseoul-969",
+      "title": "2026 K-콘텐츠 서울여행주간",
+      "area": "서울특별시 구로구",
+      "location": {
+        "latitude": 37.4982125677913,
+        "longitude": 126.867088741096
+      },
+      "distanceKm": 12,
+      "dateLabel": "11.14–11.20",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-20",
+      "price": "무료",
+      "priceDetail": "무료",
+      "themes": [
+        "culture"
+      ],
+      "fit": "문화 산책·주말 나들이",
+      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "고척스카이돔, DDP 어울림광장 등",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#B2763D",
+      "tint": "#F8EFE4",
+      "emoji": "🎭",
+      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=969",
+      "sourceName": "서울시 펀서울",
+      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=969",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+      "sourceUpdatedAt": null,
+      "evidenceUrls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=969"
+      ],
+      "officialImageUrl": null,
+      "editorialVerifiedAt": null,
+      "visitFacts": [
+        {
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=969",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
+          "eventStartDate": "2026-11-14",
+          "eventEndDate": "2026-11-20",
+          "kind": "hours",
+          "text": "12:00~18:00"
+        },
+        {
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=969",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
+          "eventStartDate": "2026-11-14",
+          "eventEndDate": "2026-11-20",
+          "kind": "audience",
+          "text": "방한 외국인 관광객"
         }
       ],
       "featured": false
@@ -1185,7 +1343,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=972",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=972",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=972"
@@ -1195,7 +1353,7 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=972",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-15",
           "eventStartDate": "2026-11-15",
           "eventEndDate": "2026-11-15",
@@ -1204,7 +1362,7 @@
         },
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=972",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-15",
           "eventStartDate": "2026-11-15",
           "eventEndDate": "2026-11-15",
@@ -1243,7 +1401,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=971",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=971",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=971"
@@ -1253,7 +1411,7 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=971",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-13",
           "eventStartDate": "2026-11-10",
           "eventEndDate": "2026-11-13",
@@ -1262,128 +1420,12 @@
         },
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=971",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-13",
           "eventStartDate": "2026-11-10",
           "eventEndDate": "2026-11-13",
           "kind": "audience",
           "text": "만7세이상"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "funseoul-973",
-      "title": "2026 복작복작 오늘전통축제",
-      "area": "서울특별시 중구",
-      "location": {
-        "latitude": 37.55587110630817,
-        "longitude": 126.97161879050195
-      },
-      "distanceKm": 1,
-      "dateLabel": "11.12",
-      "startDate": "2026-11-12",
-      "endDate": "2026-11-12",
-      "price": "무료",
-      "priceDetail": "무료",
-      "themes": [
-        "culture"
-      ],
-      "fit": "문화 산책·주말 나들이",
-      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "문화역서울284 전관",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#B2763D",
-      "tint": "#F8EFE4",
-      "emoji": "🎭",
-      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=973",
-      "sourceName": "서울시 펀서울",
-      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=973",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
-      "sourceUpdatedAt": null,
-      "evidenceUrls": [
-        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=973"
-      ],
-      "officialImageUrl": null,
-      "editorialVerifiedAt": null,
-      "visitFacts": [
-        {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=973",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-12",
-          "eventStartDate": "2026-11-12",
-          "eventEndDate": "2026-11-12",
-          "kind": "hours",
-          "text": "10:00~18:00 (프로그램 별 상이)"
-        },
-        {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=973",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-12",
-          "eventStartDate": "2026-11-12",
-          "eventEndDate": "2026-11-12",
-          "kind": "audience",
-          "text": "누구나"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "funseoul-981",
-      "title": "제4회 은평 피플퍼스트 대회",
-      "area": "서울특별시 은평구",
-      "location": {
-        "latitude": 37.603672695497586,
-        "longitude": 126.92781676411742
-      },
-      "distanceKm": 6,
-      "dateLabel": "11.12",
-      "startDate": "2026-11-12",
-      "endDate": "2026-11-12",
-      "price": "무료",
-      "priceDetail": "무료",
-      "themes": [
-        "culture"
-      ],
-      "fit": "문화 산책·주말 나들이",
-      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "은평문화예술회관 대회의실",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#B2763D",
-      "tint": "#F8EFE4",
-      "emoji": "🎭",
-      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=981",
-      "sourceName": "서울시 펀서울",
-      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=981",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
-      "sourceUpdatedAt": null,
-      "evidenceUrls": [
-        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=981"
-      ],
-      "officialImageUrl": null,
-      "editorialVerifiedAt": null,
-      "visitFacts": [
-        {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=981",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-12",
-          "eventStartDate": "2026-11-12",
-          "eventEndDate": "2026-11-12",
-          "kind": "hours",
-          "text": "10:00 ~ 17:00"
-        },
-        {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=981",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-12",
-          "eventStartDate": "2026-11-12",
-          "eventEndDate": "2026-11-12",
-          "kind": "audience",
-          "text": "발달장애인 및 가족, 관람 단체 200명 이상"
         }
       ],
       "featured": false
@@ -1417,7 +1459,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=377",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=377",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=377"
@@ -1427,7 +1469,7 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=377",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-16",
           "eventStartDate": "2026-11-16",
           "eventEndDate": "2026-11-16",
@@ -1466,7 +1508,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=385",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=385",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=385"
@@ -1476,7 +1518,7 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=385",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-17",
           "eventStartDate": "2026-11-17",
           "eventEndDate": "2026-11-17",
@@ -1485,7 +1527,7 @@
         },
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=385",
-          "checkedAt": "2026-11-11",
+          "checkedAt": "2026-11-12",
           "validThrough": "2026-11-17",
           "eventStartDate": "2026-11-17",
           "eventEndDate": "2026-11-17",
@@ -1525,7 +1567,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=952",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=952",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=952"
@@ -1535,8 +1577,8 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=952",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-11-21",
           "eventEndDate": "2026-11-21",
           "kind": "hours",
@@ -1544,8 +1586,66 @@
         },
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=952",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
+          "eventStartDate": "2026-11-21",
+          "eventEndDate": "2026-11-21",
+          "kind": "audience",
+          "text": "누구나"
+        }
+      ],
+      "featured": false
+    },
+    {
+      "id": "funseoul-978",
+      "title": "제18회 서울문학축제 [2026 문학의 도시 서울]",
+      "area": "서울특별시 중구",
+      "location": {
+        "latitude": 37.5689505932793,
+        "longitude": 126.977418179292
+      },
+      "distanceKm": 0,
+      "dateLabel": "11.21",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "price": "무료",
+      "priceDetail": "무료",
+      "themes": [
+        "culture"
+      ],
+      "fit": "문화 산책·주말 나들이",
+      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "청계광장 및 종로, 명동 일대",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#B2763D",
+      "tint": "#F8EFE4",
+      "emoji": "🎭",
+      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=978",
+      "sourceName": "서울시 펀서울",
+      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=978",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+      "sourceUpdatedAt": null,
+      "evidenceUrls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=978"
+      ],
+      "officialImageUrl": null,
+      "editorialVerifiedAt": null,
+      "visitFacts": [
+        {
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=978",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
+          "eventStartDate": "2026-11-21",
+          "eventEndDate": "2026-11-21",
+          "kind": "hours",
+          "text": "13:00~17:00"
+        },
+        {
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=978",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-11-21",
           "eventEndDate": "2026-11-21",
           "kind": "audience",
@@ -1583,7 +1683,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=980",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=980",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=980"
@@ -1593,70 +1693,12 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=980",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-11-21",
           "eventEndDate": "2026-11-22",
           "kind": "hours",
           "text": "07:30~16:00"
-        }
-      ],
-      "featured": false
-    },
-    {
-      "id": "funseoul-978",
-      "title": "제18회 서울문학축제 [2026 문학의 도시 서울]",
-      "area": "서울특별시 중구",
-      "location": {
-        "latitude": 37.5689505932793,
-        "longitude": 126.977418179292
-      },
-      "distanceKm": 0,
-      "dateLabel": "11.21",
-      "startDate": "2026-11-21",
-      "endDate": "2026-11-21",
-      "price": "무료",
-      "priceDetail": "무료",
-      "themes": [
-        "culture"
-      ],
-      "fit": "문화 산책·주말 나들이",
-      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "청계광장 및 종로, 명동 일대",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#B2763D",
-      "tint": "#F8EFE4",
-      "emoji": "🎭",
-      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=978",
-      "sourceName": "서울시 펀서울",
-      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=978",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
-      "sourceUpdatedAt": null,
-      "evidenceUrls": [
-        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=978"
-      ],
-      "officialImageUrl": null,
-      "editorialVerifiedAt": null,
-      "visitFacts": [
-        {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=978",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
-          "eventStartDate": "2026-11-21",
-          "eventEndDate": "2026-11-21",
-          "kind": "hours",
-          "text": "13:00~17:00"
-        },
-        {
-          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=978",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
-          "eventStartDate": "2026-11-21",
-          "eventEndDate": "2026-11-21",
-          "kind": "audience",
-          "text": "누구나"
         }
       ],
       "featured": false
@@ -1690,7 +1732,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=979",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=979",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=979"
@@ -1700,8 +1742,8 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=979",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-11-21",
           "eventEndDate": "2026-11-24",
           "kind": "hours",
@@ -1709,8 +1751,8 @@
         },
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=979",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-11-21",
           "eventEndDate": "2026-11-24",
           "kind": "audience",
@@ -1724,13 +1766,13 @@
       "title": "2026 서울 보육인 한마당 축제",
       "area": "서울특별시 중구",
       "location": {
-        "latitude": 37.5680445876689,
-        "longitude": 127.010890355484
+        "latitude": 37.56782131195634,
+        "longitude": 127.00997222203824
       },
       "distanceKm": 3,
-      "dateLabel": "11.25",
-      "startDate": "2026-11-25",
-      "endDate": "2026-11-25",
+      "dateLabel": "11.26",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
       "price": "요금 확인",
       "priceDetail": "공식 공지에서 요금을 확인해 주세요.",
       "themes": [
@@ -1740,7 +1782,7 @@
       "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
       "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
       "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "동대문디자인플라자",
+      "venue": "동대문디자인플라자 아트홀",
       "hours": "운영 시간은 공식 공지 확인",
       "accent": "#B2763D",
       "tint": "#F8EFE4",
@@ -1748,14 +1790,24 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=460",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=460",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=460"
       ],
       "officialImageUrl": null,
       "editorialVerifiedAt": null,
-      "visitFacts": [],
+      "visitFacts": [
+        {
+          "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=460",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
+          "eventStartDate": "2026-11-26",
+          "eventEndDate": "2026-11-26",
+          "kind": "hours",
+          "text": "1부 식전행사 (15:00~15:30) 2부 기념행사 (15:30 ~ 16:30)"
+        }
+      ],
       "featured": false
     },
     {
@@ -1787,7 +1839,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=386",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=386",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=386"
@@ -1797,8 +1849,8 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=386",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-11-26",
           "eventEndDate": "2026-12-09",
           "kind": "hours",
@@ -1837,13 +1889,13 @@
       "officialUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=bcd79254-697d-47f5-a408-e022f0e9f7fd",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=bcd79254-697d-47f5-a408-e022f0e9f7fd",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
-      "sourceUpdatedAt": "2026-11-06",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+      "sourceUpdatedAt": "2026-11-12",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=bcd79254-697d-47f5-a408-e022f0e9f7fd",
-        "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/bcd79254-697d-47f5-a408-e022f0e9f7fd_89.jpg"
+        "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/bcd79254-697d-47f5-a408-e022f0e9f7fd_96.jpg"
       ],
-      "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/bcd79254-697d-47f5-a408-e022f0e9f7fd_89.jpg",
+      "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/bcd79254-697d-47f5-a408-e022f0e9f7fd_96.jpg",
       "editorialVerifiedAt": null,
       "featured": false
     },
@@ -1878,13 +1930,13 @@
       "officialUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=8e3215e7-02ad-488a-997d-979b2b8b682f",
       "sourceName": "대한민국 구석구석 축제",
       "sourceUrl": "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=8e3215e7-02ad-488a-997d-979b2b8b682f",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
-      "sourceUpdatedAt": "2026-11-11",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+      "sourceUpdatedAt": "2026-11-12",
       "evidenceUrls": [
         "https://korean.visitkorea.or.kr/kfes/detail/fstvlDetail.do?fstvlCntntsId=8e3215e7-02ad-488a-997d-979b2b8b682f",
-        "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/8e3215e7-02ad-488a-997d-979b2b8b682f_20.jpg"
+        "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/8e3215e7-02ad-488a-997d-979b2b8b682f_28.jpg"
       ],
-      "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/8e3215e7-02ad-488a-997d-979b2b8b682f_20.jpg",
+      "officialImageUrl": "https://kfescdn.visitkorea.or.kr/kfes/upload/contents/db/8e3215e7-02ad-488a-997d-979b2b8b682f_28.jpg",
       "editorialVerifiedAt": null,
       "featured": false
     },
@@ -1917,7 +1969,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=372",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=372",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=372"
@@ -1956,49 +2008,10 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=373",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=373",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=373"
-      ],
-      "officialImageUrl": null,
-      "editorialVerifiedAt": null,
-      "visitFacts": [],
-      "featured": false
-    },
-    {
-      "id": "funseoul-401",
-      "title": "2026 한강페스티벌-겨울",
-      "area": "서울특별시 영등포구",
-      "location": {
-        "latitude": 37.5263474738219,
-        "longitude": 126.933595431713
-      },
-      "distanceKm": 6,
-      "dateLabel": "12.18–12.27",
-      "startDate": "2026-12-18",
-      "endDate": "2026-12-27",
-      "price": "요금 확인",
-      "priceDetail": "공식 공지에서 요금을 확인해 주세요.",
-      "themes": [
-        "culture"
-      ],
-      "fit": "문화 산책·주말 나들이",
-      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
-      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
-      "venue": "한강 수상 및 11개 한강공원 전역",
-      "hours": "운영 시간은 공식 공지 확인",
-      "accent": "#B2763D",
-      "tint": "#F8EFE4",
-      "emoji": "🎭",
-      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=401",
-      "sourceName": "서울시 펀서울",
-      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=401",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
-      "sourceUpdatedAt": null,
-      "evidenceUrls": [
-        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=401"
       ],
       "officialImageUrl": null,
       "editorialVerifiedAt": null,
@@ -2034,7 +2047,7 @@
       "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=355",
       "sourceName": "서울시 펀서울",
       "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=355",
-      "lastCheckedAt": "2026-11-11T21:01:25.003Z",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
       "sourceUpdatedAt": null,
       "evidenceUrls": [
         "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=355"
@@ -2044,14 +2057,53 @@
       "visitFacts": [
         {
           "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=355",
-          "checkedAt": "2026-11-11",
-          "validThrough": "2026-11-17",
+          "checkedAt": "2026-11-12",
+          "validThrough": "2026-11-18",
           "eventStartDate": "2026-12-18",
           "eventEndDate": "2027-02-09",
           "kind": "hours",
           "text": "10:00~21:30 (금,토 ~24:30)"
         }
       ],
+      "featured": false
+    },
+    {
+      "id": "funseoul-401",
+      "title": "2026 한강페스티벌-겨울",
+      "area": "서울특별시 영등포구",
+      "location": {
+        "latitude": 37.5263474738219,
+        "longitude": 126.933595431713
+      },
+      "distanceKm": 6,
+      "dateLabel": "12.18–12.27",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-27",
+      "price": "요금 확인",
+      "priceDetail": "공식 공지에서 요금을 확인해 주세요.",
+      "themes": [
+        "culture"
+      ],
+      "fit": "문화 산책·주말 나들이",
+      "summary": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "program": "지역 축제 · 세부 프로그램과 참여 조건은 공식 안내에서 확인해 주세요.",
+      "visitTip": "날씨나 현장 상황에 따라 일정이 바뀔 수 있어 출발 전 공식 공지를 확인해 주세요.",
+      "venue": "한강 수상 및 11개 한강공원 전역",
+      "hours": "운영 시간은 공식 공지 확인",
+      "accent": "#B2763D",
+      "tint": "#F8EFE4",
+      "emoji": "🎭",
+      "officialUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=401",
+      "sourceName": "서울시 펀서울",
+      "sourceUrl": "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=401",
+      "lastCheckedAt": "2026-11-12T21:03:30.034Z",
+      "sourceUpdatedAt": null,
+      "evidenceUrls": [
+        "https://festival.seoul.go.kr/festival/main/festivalView.do?festacode=401"
+      ],
+      "officialImageUrl": null,
+      "editorialVerifiedAt": null,
+      "visitFacts": [],
       "featured": false
     },
     {
